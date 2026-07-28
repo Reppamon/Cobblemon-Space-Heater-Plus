@@ -1,0 +1,13 @@
+name = "MoreRecipes [Cobblemon]"
+filename = "MoreRecipes 1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P32n013L/versions/HUFAi6kj/MoreRecipes%201.2.zip"
+hash-format = "sha512"
+hash = "946e95f86de38e4e362e55380a5576c91db94865732f150bcbd8e7cf52d65f1aeb9391367b2eaef993cc145d35e6687b5496dee77349f0ef513d213ffd75d25c"
+
+[update]
+[update.modrinth]
+mod-id = "P32n013L"
+version = "HUFAi6kj"

@@ -1,0 +1,13 @@
+name = "Botany Pots:GrowableOres Compat"
+filename = "BotanyPotsGrowableOresCompat-1.0.4-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WjA2S6fr/versions/RMgH15MQ/BotanyPotsGrowableOresCompat-1.0.4-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "73c25ac174256ae37671009abb43ee7c039905308e4c56849e6bd7f4e771c5e488a2476ca1e081887c789bd341ec304f4a2e9108924ef101a38535bcb360b11c"
+
+[update]
+[update.modrinth]
+mod-id = "WjA2S6fr"
+version = "RMgH15MQ"

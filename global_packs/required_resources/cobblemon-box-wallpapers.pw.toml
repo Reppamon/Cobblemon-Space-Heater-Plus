@@ -1,0 +1,13 @@
+name = "Cobblemon Box Wallpapers"
+filename = "Cheese-BoxWallpapers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MzJXcuh9/versions/bnXxNbYZ/Cheese-BoxWallpapers.zip"
+hash-format = "sha512"
+hash = "d1d912f1a03e6ac51877586b5f456acd9a44dd7429147d20660d8c6eeb4135523216151ce1864de3f220a8a29e1f1bfb57cbd109889933449ffbabe244b125c4"
+
+[update]
+[update.modrinth]
+mod-id = "MzJXcuh9"
+version = "bnXxNbYZ"

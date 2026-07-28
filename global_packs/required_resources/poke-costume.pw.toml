@@ -1,0 +1,13 @@
+name = "Poké Costume [cobblemon]"
+filename = "PokeCostume v.3.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k1X1bPvt/versions/DEtvGMQW/PokeCostume%20v.3.3.zip"
+hash-format = "sha512"
+hash = "8a7dc97f5598e0a8d6096b54491c20173cd136041b6de99c25f663675451cbe140196aded720cd0b337d5b73b5f384158fdc193b757367d36c7f75bd32bcf1c5"
+
+[update]
+[update.modrinth]
+mod-id = "k1X1bPvt"
+version = "DEtvGMQW"

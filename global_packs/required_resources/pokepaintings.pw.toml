@@ -1,0 +1,13 @@
+name = "PokePaintings"
+filename = "PokePaintings DP 1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1otbRItO/versions/nxmfuQQS/PokePaintings%20DP%201.1.zip"
+hash-format = "sha512"
+hash = "6c87a93c1794111e545ce931213c187fb7cb06198ec65130663c52a9f797d8fd2b62aa37d72a5aab2c9622c2597cf002655112b1a54773107386a955d0bd1173"
+
+[update]
+[update.modrinth]
+mod-id = "1otbRItO"
+version = "nxmfuQQS"

@@ -1,0 +1,13 @@
+name = "Cobbled Tools - Cobblemon"
+filename = "POKEMON TOOLS.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IiNsIQ9C/versions/rP4t8QOq/POKEMON%20TOOLS.zip"
+hash-format = "sha512"
+hash = "9509d63055b087a0a12b523406bd3be0c1a45d958de1727b548662824f10f62cfc336dd5fda048d8b1c79e5ace5d36f3a26271ee113cd314cd735b287d7a4bbb"
+
+[update]
+[update.modrinth]
+mod-id = "IiNsIQ9C"
+version = "rP4t8QOq"

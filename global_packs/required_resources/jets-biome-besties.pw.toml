@@ -1,0 +1,13 @@
+name = "[Cobblemon] Jet's Biome Besties"
+filename = "[v1.37] Jet's Biome Besties.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q8ZyGBSE/versions/9NInKLKK/%5Bv1.37%5D%20Jet%27s%20Biome%20Besties.zip"
+hash-format = "sha512"
+hash = "d827ce2f53cd97f24d7beef24a1b6012cbec59daed39a4ca1faf61152ea5a305356572f1966cd876d56875c6dbb9b61a651f95a666263ce6c9b6de7060079321"
+
+[update]
+[update.modrinth]
+mod-id = "q8ZyGBSE"
+version = "9NInKLKK"

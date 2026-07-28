@@ -1,0 +1,13 @@
+name = "Cobblemon Triple Bakalutions"
+filename = "Triple Bakalutions - 1.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mv8ODnvK/versions/zv0SRZb5/Triple%20Bakalutions%20-%201.1.1.zip"
+hash-format = "sha512"
+hash = "1bd61998d30cff023bca65d1dbea35ee87295f293eed9fd527559d5e41fe4fcc29da7eadc7f9cf00937d3ad4c9ad025992fef84b2fd888d9dd2f274e37ae010d"
+
+[update]
+[update.modrinth]
+mod-id = "mv8ODnvK"
+version = "zv0SRZb5"

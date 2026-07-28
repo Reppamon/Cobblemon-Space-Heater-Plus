@@ -1,0 +1,13 @@
+name = "Cobblemon Pasture Extractor"
+filename = "pastureextractor-1.1.0-1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tGi1DqO0/versions/oaoAAF4i/pastureextractor-1.1.0-1.7.3.jar"
+hash-format = "sha512"
+hash = "8dab8ed15bdd7abac6940e996f8405156fa8fed19e6014e5b51d60a20e4667737109d9e27e7e452de90e8333ad210d5b65c81d4dd0f11c5365fb5e7bc55950bc"
+
+[update]
+[update.modrinth]
+mod-id = "tGi1DqO0"
+version = "oaoAAF4i"

@@ -1,0 +1,13 @@
+name = "[Cobblemon] Storybook Hybrids!"
+filename = "[v1.15] Storybook Hybrids.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rWTv4vh2/versions/wqpZw1Ch/%5Bv1.15%5D%20Storybook%20Hybrids.zip"
+hash-format = "sha512"
+hash = "6a0af0ad9c8fd25674b47f9a0559f03882921ffdae156b2f9a81e5d3dbb0089d706b49d9e57e50273edde4bc2c0409e4efc4fa0895a383ecc0c6b025536f5114"
+
+[update]
+[update.modrinth]
+mod-id = "rWTv4vh2"
+version = "wqpZw1Ch"

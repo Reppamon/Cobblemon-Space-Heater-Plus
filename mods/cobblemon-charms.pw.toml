@@ -1,0 +1,13 @@
+name = "Cobblemon: Charms"
+filename = "cobblemoncharms-1.2.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mHr1kQzr/versions/xXSL9Zzi/cobblemoncharms-1.2.0-neoforge.jar"
+hash-format = "sha512"
+hash = "6e4cf439f542838ed1be25de5773b6f85fe3e6680307f973e8ea4dbaba7477dcb05bb48c50e5753de1d0d1e02ec60fb7ad5afd6f95962beb6904fb5b0df993d2"
+
+[update]
+[update.modrinth]
+mod-id = "mHr1kQzr"
+version = "xXSL9Zzi"

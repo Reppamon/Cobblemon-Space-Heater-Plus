@@ -1,0 +1,13 @@
+name = "Kibe"
+filename = "kibe-2.3.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OvlwmUdC/versions/KgqSZphN/kibe-2.3.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "588f68518513647dff81e3f3e3688cdb7dfa031c87ac92feaf71d938734270e2505265e665398cd5721c7d86a95f16198fc231f0050fc6f6c9d603d9740678ea"
+
+[update]
+[update.modrinth]
+mod-id = "OvlwmUdC"
+version = "KgqSZphN"

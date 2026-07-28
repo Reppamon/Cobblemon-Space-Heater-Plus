@@ -1,0 +1,13 @@
+name = "Cobblemon: Interact Wheel Additions"
+filename = "cobblemon_iwa-neoforge-1.0.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g7yIQJhn/versions/37JA3IHI/cobblemon_iwa-neoforge-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "6a419dc1f2a4513fa481391e0929ac1c043d09d753294fc0c176b44a59bdbd30b94e0cb590e010e717132f19ac6fca87fbd9a0fc9798e6ad258c480b2ff1f5b0"
+
+[update]
+[update.modrinth]
+mod-id = "g7yIQJhn"
+version = "37JA3IHI"

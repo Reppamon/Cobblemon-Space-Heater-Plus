@@ -1,0 +1,13 @@
+name = "Cobblemon: Pickmin"
+filename = "pickmin-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fyi3FOwu/versions/cZmx9NLr/pickmin-1.2.jar"
+hash-format = "sha512"
+hash = "02fce1e07e628f9c3854009a04c0dd9cf7e980fe497844bd628576d020f66eae693a3d899bfa19a2a376837b1e6563dddd5a38acf4766973d428589d7932dcfc"
+
+[update]
+[update.modrinth]
+mod-id = "Fyi3FOwu"
+version = "cZmx9NLr"

@@ -1,0 +1,13 @@
+name = "Cobblemon Picnic"
+filename = "cobblemon-picnic-neoforge-1.26.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sfptxo0H/versions/qTQReiiZ/cobblemon-picnic-neoforge-1.26.0.jar"
+hash-format = "sha512"
+hash = "d24f5df55eca6a3a4a7a33369ffd207d5d2580c153d926e894e9ed31fd9a889554020edb3d838d1b5bb5a9f1a7c754c5a39189bb3235bb3c3ee57ca7128856ce"
+
+[update]
+[update.modrinth]
+mod-id = "sfptxo0H"
+version = "qTQReiiZ"

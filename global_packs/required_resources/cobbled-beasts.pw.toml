@@ -1,0 +1,13 @@
+name = "Cobbled Beasts [COBBLEMON]"
+filename = "Cobbled_Beasts.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jdPVf0sY/versions/qnMsLpZR/Cobbled_Beasts.zip"
+hash-format = "sha512"
+hash = "2e4c33171a86580974a29bbba0c1cd58c9e4c8225385845043b51deb5188f61afb09afafd812e52bac29c70bb359378dfb7b14aa6854e53d457a66fc2a8723be"
+
+[update]
+[update.modrinth]
+mod-id = "jdPVf0sY"
+version = "qnMsLpZR"

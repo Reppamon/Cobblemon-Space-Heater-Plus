@@ -1,0 +1,10 @@
+{
+  "baseDropChances": {
+    "gold": 0.3,
+    "diamond": 0.5,
+    "iron": 0.15
+  },
+  "extractorCooldown": 200,
+  "itemBlacklist": [],
+  "ignoreFriendship": false
+}

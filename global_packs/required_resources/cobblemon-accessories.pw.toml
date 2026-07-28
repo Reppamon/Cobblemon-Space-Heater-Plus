@@ -1,0 +1,13 @@
+name = "Cobblemon Accessories & More"
+filename = "Cobblemon Accessories v5 [1.7].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B9CzigoH/versions/b8T3qbTa/Cobblemon%20Accessories%20v5%20%5B1.7%5D.zip"
+hash-format = "sha512"
+hash = "d0d998fd1dee1bef6b0e2ad3a54f8d5ea5ae63441bdf3a319293f24a9e870eabca8069359a723a1bfa010ba1f97d48ac1bb066260cae27cb7fa140737c321b85"
+
+[update]
+[update.modrinth]
+mod-id = "B9CzigoH"
+version = "b8T3qbTa"

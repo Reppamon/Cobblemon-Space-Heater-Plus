@@ -1,0 +1,13 @@
+name = "SpaceworldMons [Cobblemon]"
+filename = "Spaceworldmons-3.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yJEn7EQ4/versions/DYleS4O9/Spaceworldmons-3.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "9cb9a017055d6739802dc51e68270a9bc8e9a1d2efe381ad2b7b92a6ffe33e29b85c0ec4dac84139f92e60cb5e6584192e1366dd631e3e173b4f5e8d38cfe1ff"
+
+[update]
+[update.modrinth]
+mod-id = "yJEn7EQ4"
+version = "DYleS4O9"

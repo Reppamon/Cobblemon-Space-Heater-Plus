@@ -1,0 +1,13 @@
+name = "Cobblemon RLM"
+filename = "cobblemon-rlm-1.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GC58bFHM/versions/aDRaTqj4/cobblemon-rlm-1.5.6.jar"
+hash-format = "sha512"
+hash = "c0dab9d7b0676d2374abee9eb8b1b5a53c02a611d7c02f9d60c7b7a7f1e5abd1d387318d6f9a75ef312ccda3d7baaf19dc9b93e02de0b47e2dc2e19e2d2eb231"
+
+[update]
+[update.modrinth]
+mod-id = "GC58bFHM"
+version = "aDRaTqj4"

@@ -1,0 +1,13 @@
+name = "Cobblemon: Gholdengo Colorful Cosmetics"
+filename = "Gholdengo Colorful Cosmetics - 1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P15mguXg/versions/4z2oWKrz/Gholdengo%20Colorful%20Cosmetics%20-%201.1.jar"
+hash-format = "sha512"
+hash = "31b8e2762b4aa01d69d69275c1f8f38a6d7e2c3631d12b5de73ca96ac9d2340393a12d57d4f6b44f60937fd5d4ff340487b515e7962eac90036582d3dc8a918e"
+
+[update]
+[update.modrinth]
+mod-id = "P15mguXg"
+version = "4z2oWKrz"

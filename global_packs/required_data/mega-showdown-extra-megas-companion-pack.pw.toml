@@ -1,0 +1,13 @@
+name = "Mega Showdown: Extra Megas Companion Pack"
+filename = "msdextramegas_companionpack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9tmRIi7i/versions/gqrerqiV/msdextramegas_companionpack.zip"
+hash-format = "sha512"
+hash = "639b3334fa8bf1c4c942745e685010714a03861e8b71d1d1eff851fbb8d5e9c5e98935934b25ce645ea45b95d64a146a38f5fa7de66bb686d0d63f1abf341ffb"
+
+[update]
+[update.modrinth]
+mod-id = "9tmRIi7i"
+version = "gqrerqiV"

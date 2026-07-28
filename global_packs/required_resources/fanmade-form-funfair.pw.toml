@@ -1,0 +1,13 @@
+name = "Fanmade Form Funfair"
+filename = "fanmade form funfair v.1.4.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yZpvb7wd/versions/tJeK1pv5/fanmade%20form%20funfair%20v.1.4.0.zip"
+hash-format = "sha512"
+hash = "8a689c14b1597787076cf3a97613923e3de2c7aa08ae899cc26510adb823546773cbfce564e8e2da2f70cbbeea079f7990df386efc2b8a65c5efa1fb867457fc"
+
+[update]
+[update.modrinth]
+mod-id = "yZpvb7wd"
+version = "tJeK1pv5"

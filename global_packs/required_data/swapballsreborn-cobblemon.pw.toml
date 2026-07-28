@@ -1,0 +1,13 @@
+name = "SwapBallsReborn [Cobblemon]"
+filename = "SwapBallsReborn 1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gGkKnWjU/versions/MJX05DuZ/SwapBallsReborn%201.2.zip"
+hash-format = "sha512"
+hash = "e100b0e11e402887dca09ffa1cd5311b085e0744e9fa46af25ace66bd4f801937e64cb98d9dde870bc7f4dbc6977ac10857574eed08e55167289688bc4325b3e"
+
+[update]
+[update.modrinth]
+mod-id = "gGkKnWjU"
+version = "MJX05DuZ"

@@ -1,0 +1,13 @@
+name = "CobbledGacha v.3 [Cobblemon 1.7] [Fabric/NeoForge 1.21.1]"
+filename = "cobbledgacha-neoforge-1.21.1-3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c1OpnQs3/versions/S1kcfrxR/cobbledgacha-neoforge-1.21.1-3.0.3.jar"
+hash-format = "sha512"
+hash = "a128ff83b2a59ee0624a9c09a40dae7cc33a64600d8a4ebf8ffbca05f324ed5a9275e058ee629a2bbca7b35b3d40e28ad11cb2f439b609144c90c2e5bf986872"
+
+[update]
+[update.modrinth]
+mod-id = "c1OpnQs3"
+version = "S1kcfrxR"

@@ -1,0 +1,13 @@
+name = "Cobblemon Alphas"
+filename = "cobblemon-alphas-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3dnjbPgt/versions/h4lYCmLn/cobblemon-alphas-2.2.jar"
+hash-format = "sha512"
+hash = "5908f470fec9713c276074e1293b25bb5e7da27f1cc6e1747afc43eacb740367295e17e9b20135eea35c1788489260368e4d92b429560ed23b99ddcb5e83cef5"
+
+[update]
+[update.modrinth]
+mod-id = "3dnjbPgt"
+version = "h4lYCmLn"

@@ -1,0 +1,13 @@
+name = "Cure's Fakemon Stuff"
+filename = "Cryptonia_v4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1t7DjHVM/versions/S6g38jrr/Cryptonia_v4.zip"
+hash-format = "sha512"
+hash = "5bcf175b67759d8bd9e0739d4d114acbeaaab950518dffcddde066f5d4989bdf5eace674fb5b20f7f1ebed759ab16e800b2740cb452082819ae4c6e004895a31"
+
+[update]
+[update.modrinth]
+mod-id = "1t7DjHVM"
+version = "S6g38jrr"

@@ -1,0 +1,13 @@
+name = "Astolfo's Mons [COBBLEMON]"
+filename = "Astolfo's Mons.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X7zAOSac/versions/ZnoZvc8N/Astolfo%27s%20Mons.zip"
+hash-format = "sha512"
+hash = "0a4148ad416032327873acfeb0d43298f62ac93e8bf78c22104527f4e12f5d213d59c2f74e0532f3dc6f97a2a261078b1e7f5ef3b532fc30a156f301f9254eaf"
+
+[update]
+[update.modrinth]
+mod-id = "X7zAOSac"
+version = "ZnoZvc8N"

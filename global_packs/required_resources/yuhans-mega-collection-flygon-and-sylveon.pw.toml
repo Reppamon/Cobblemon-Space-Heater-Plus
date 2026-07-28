@@ -1,0 +1,13 @@
+name = "Yuhan's Mega Collection [Flygon, Sylveon, Hydreigon]"
+filename = "YuhanCollection2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qg15ghOQ/versions/43Dj0UNV/YuhanCollection2.2.zip"
+hash-format = "sha512"
+hash = "180ef4a511d17128437ee1c94bd5a8d7448e8109c1de600f3789f01c49d0a1921b0dc65a8263a36c94d11be509ff6a50302abf031170518f085cdd6ced4cb3cb"
+
+[update]
+[update.modrinth]
+mod-id = "Qg15ghOQ"
+version = "43Dj0UNV"

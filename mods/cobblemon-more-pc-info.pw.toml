@@ -1,0 +1,13 @@
+name = "Cobblemon More PC Info"
+filename = "cobblemon-more-pc-info-neoforge-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oz0DQUKM/versions/twkuHGnA/cobblemon-more-pc-info-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "def3edfb6763710ab0be5801dd7f060b762f855cb7ec1a2e0fa5af298538076c94ce79a69658d102379ca449df00a99ab66ab4445c8f5e30c590800775605ebc"
+
+[update]
+[update.modrinth]
+mod-id = "Oz0DQUKM"
+version = "twkuHGnA"

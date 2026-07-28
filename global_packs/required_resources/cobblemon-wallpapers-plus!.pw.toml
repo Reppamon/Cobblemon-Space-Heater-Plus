@@ -1,0 +1,13 @@
+name = "[Cobblemon] Wallpapers Plus!"
+filename = "Wallpapers Plus! 2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fR0AN6tJ/versions/WpwHLls7/Wallpapers%20Plus%21%202.0.zip"
+hash-format = "sha512"
+hash = "f544a69ff63999e6b327cd1d824608bcc5198ef884d3ce48aeb76ab474774b39749c5698a716f66b524e40ca275af3d78b4acfbd7bc26153ae2076eadd0a2280"
+
+[update]
+[update.modrinth]
+mod-id = "fR0AN6tJ"
+version = "WpwHLls7"

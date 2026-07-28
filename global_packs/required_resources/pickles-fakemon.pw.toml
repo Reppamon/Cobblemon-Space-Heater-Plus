@@ -1,0 +1,13 @@
+name = "Pickle's Fakemon"
+filename = "Pickle's_Fakemon 1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L07D3rVb/versions/bLBBPYEc/Pickle%27s_Fakemon%201.1.zip"
+hash-format = "sha512"
+hash = "e15c4a5a3503d722cbb9911453a7cd46c003a5af628047c71e4a535880ee1e9bb33db0b80affa2e58957c671c9708e14728d9c2e0de386c51765ea931d91d1f6"
+
+[update]
+[update.modrinth]
+mod-id = "L07D3rVb"
+version = "bLBBPYEc"

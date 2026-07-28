@@ -1,0 +1,13 @@
+name = "Cobblemon improvedmon"
+filename = "Cobblemon improvedmon v1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DHn6JjmX/versions/1bExUxoJ/Cobblemon%20improvedmon%20v1.1.zip"
+hash-format = "sha512"
+hash = "53f5237d4dfc8f557bb9901f5b6ec7bff86898e964b89a1c5fbd5f944d402888fd5f46adf825eac0fc77900952589d0a2b77befcea5b995f61fb3585b238b530"
+
+[update]
+[update.modrinth]
+mod-id = "DHn6JjmX"
+version = "1bExUxoJ"

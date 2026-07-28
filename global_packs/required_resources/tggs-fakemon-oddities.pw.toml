@@ -1,0 +1,13 @@
+name = "TGG's Fakemon Oddities"
+filename = "TGGs_Oddities.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XU0myD7D/versions/VvKs8WXh/TGGs_Oddities.zip"
+hash-format = "sha512"
+hash = "1d670c29498312682047bdf905b9a176d954922d51249997d790ed72a1dd684f4a44c92d7d36b4dc557fbaea0830a1416b3c658008de485bb30d47c2098990d0"
+
+[update]
+[update.modrinth]
+mod-id = "XU0myD7D"
+version = "VvKs8WXh"

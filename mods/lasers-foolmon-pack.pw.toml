@@ -1,0 +1,13 @@
+name = "Laser's Foolmon Pack [Cobblemon]"
+filename = "lasers-foolmon-pack-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F4m8dFvc/versions/dlKStcm6/lasers-foolmon-pack-1.0.jar"
+hash-format = "sha512"
+hash = "88f5138ca597f428eb062ee2efc0044e702c68e229bbb5b7f5e28e5254a0a436a55d26cd02f71e9d5904fcae7ddfa4a4a1205d6ec550f30bdccac8c171c07e78"
+
+[update]
+[update.modrinth]
+mod-id = "F4m8dFvc"
+version = "dlKStcm6"

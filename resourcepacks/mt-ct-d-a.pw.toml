@@ -1,0 +1,13 @@
+name = "Midnighttigger's Default Connected Textures Addons"
+filename = "Midnighttiggers-NT_CG-FCT-Default_1.17_V6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nVen30Ks/versions/SNNaGISv/Midnighttiggers-NT_CG-FCT-Default_1.17_V6.zip"
+hash-format = "sha512"
+hash = "9a63e1747ba7d0071e2b2853c48b2ed62477f6af66cce92788ba0665b65e2b1610f698ab94008e8e62d37846c7a6382a1e8094f41e167a7c459995b868c242d6"
+
+[update]
+[update.modrinth]
+mod-id = "nVen30Ks"
+version = "SNNaGISv"

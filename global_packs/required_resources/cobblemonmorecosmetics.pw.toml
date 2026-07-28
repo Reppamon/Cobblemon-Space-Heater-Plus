@@ -1,0 +1,13 @@
+name = "CobblemonMoreCosmetics"
+filename = "CobblemonMoreCosmetics Release v1.1.7-1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M4vjzYDD/versions/jN3II9NG/CobblemonMoreCosmetics%20Release%20v1.1.7-1.21.x.zip"
+hash-format = "sha512"
+hash = "4e9d03d6eed74abaf0cd10ef90317eace8be9b644a4dcc4eb37bd54e38a2289dee4231c57f3d2699b5770b4823b07cfa220de4bd2da24f2a2ccec2b313ea8b5f"
+
+[update]
+[update.modrinth]
+mod-id = "M4vjzYDD"
+version = "jN3II9NG"

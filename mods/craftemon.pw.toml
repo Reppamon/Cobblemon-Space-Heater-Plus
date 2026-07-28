@@ -1,0 +1,13 @@
+name = "Craftemon [Cobblemon]"
+filename = "craftemon-1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JpUO852K/versions/8R2t3nxg/craftemon-1.9.jar"
+hash-format = "sha512"
+hash = "da4d996d4a09d458085b87bfdcf4472386e06f60136d05fc4c0eb284c2c3e0e9744ec94a11669761bedcfa22a2e38bfe5da09311ea804af575e275b347eae5da"
+
+[update]
+[update.modrinth]
+mod-id = "JpUO852K"
+version = "8R2t3nxg"

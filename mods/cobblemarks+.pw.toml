@@ -1,0 +1,13 @@
+name = "Cobblemarks+ (Cobblemon)"
+filename = "cobblemarks+-1.2.1-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7WGFjJcv/versions/NjqjjW1M/cobblemarks%2B-1.2.1-release.jar"
+hash-format = "sha512"
+hash = "47f50d660a7182379f1d11885d50e6edc62ce066171af35ccd772947a115cc12d6d513c52438f172191846c3a261dd820a0e4a87456fb8d9405b2a1040c59597"
+
+[update]
+[update.modrinth]
+mod-id = "7WGFjJcv"
+version = "NjqjjW1M"

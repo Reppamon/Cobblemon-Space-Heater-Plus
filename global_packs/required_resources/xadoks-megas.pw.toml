@@ -1,0 +1,13 @@
+name = "Xadok's Megas"
+filename = "Xadok's Megas.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DIZwq3Ml/versions/rJ8dVJxo/Xadok%27s%20Megas.zip"
+hash-format = "sha512"
+hash = "5295dbf98647311d413b7f66cbf3b823d323cd3a60654397ae503a53535b7eebf5ee4a946e5057f030fd9ede4c28101842c7d1a083bde7a1e376f61e3933a66f"
+
+[update]
+[update.modrinth]
+mod-id = "DIZwq3Ml"
+version = "rJ8dVJxo"

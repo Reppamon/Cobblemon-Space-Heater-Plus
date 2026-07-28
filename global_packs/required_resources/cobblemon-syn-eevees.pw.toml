@@ -1,0 +1,13 @@
+name = "Cobblemon - Syn. Eevees"
+filename = "Syn_Eevees_0.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AYqjphfo/versions/KD0MvGCt/Syn_Eevees_0.1.0.zip"
+hash-format = "sha512"
+hash = "b780e07e55e9c0801441560001df928ee5924284c577b57577d76baa43837d6220144da239f3f50e5dfa06e9e9ddecab43f80470a10e54e4d7d8df995fc846ac"
+
+[update]
+[update.modrinth]
+mod-id = "AYqjphfo"
+version = "KD0MvGCt"

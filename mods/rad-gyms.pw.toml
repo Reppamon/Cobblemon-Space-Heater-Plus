@@ -1,0 +1,13 @@
+name = "Rad Gyms [Cobblemon]"
+filename = "rad-gyms-neoforge-0.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eF8kqlHd/versions/mStVpLf6/rad-gyms-neoforge-0.4.4.jar"
+hash-format = "sha512"
+hash = "a2387ad3ca85649e9e25c16d26d7d2c1e7545e6a884f8bbf5fa53eae3f52630c95a65174abb4e21ced61f234650d7cea2b31b5d6def6e5b76d7c6a0815448bf0"
+
+[update]
+[update.modrinth]
+mod-id = "eF8kqlHd"
+version = "mStVpLf6"

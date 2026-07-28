@@ -1,0 +1,13 @@
+name = "Mega Showdown: Repolished Extras"
+filename = "msd_repolished_extras.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KFAiEbh1/versions/4kNbFTHx/msd_repolished_extras.zip"
+hash-format = "sha512"
+hash = "c17db2c8bee51e0bbb19c1d86bfdf04791c1566fcfbdc2841a2275145c892dd275fb8409c462dc42768dfed082f99a54874784086e67d2aac0c62f9d75e1258a"
+
+[update]
+[update.modrinth]
+mod-id = "KFAiEbh1"
+version = "4kNbFTHx"

@@ -1,0 +1,13 @@
+name = "Cobblesafari + Raid Den Compat"
+filename = "cobblesafari_raiddencompat-neoforge-1.21.1-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e8qs7cpS/versions/NoqkgFaN/cobblesafari_raiddencompat-neoforge-1.21.1-0.1.2.jar"
+hash-format = "sha512"
+hash = "4ce422bb4184e348009a1dbee60ddc637b278fce4859a1ade996f943898d2efb1bb8218f4bb69df785cba25a63f263caeeb9f7c301d24e425916f05fff2687c0"
+
+[update]
+[update.modrinth]
+mod-id = "e8qs7cpS"
+version = "NoqkgFaN"

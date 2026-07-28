@@ -1,0 +1,13 @@
+name = "[Cobblemon] Pokemon Sunset Orange"
+filename = "[v 1.01] Pokemon Sunset Orange.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VCu7M2AA/versions/TThnkf7f/%5Bv%201.01%5D%20Pokemon%20Sunset%20Orange.zip"
+hash-format = "sha512"
+hash = "7d6a9c0e1a4d1631f7881740ab68d85aec9007838da8d0d6be611e379cdbcb168dc6c53ed344334ded7605f0e7c840e1f399e080dedec084133f117155f5dcf8"
+
+[update]
+[update.modrinth]
+mod-id = "VCu7M2AA"
+version = "TThnkf7f"

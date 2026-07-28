@@ -1,0 +1,13 @@
+name = "Mega Showdown: Extra Megas!"
+filename = "msdextramegas-neoforge-0.2b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xiakR5rt/versions/QvUAAffQ/msdextramegas-neoforge-0.2b.jar"
+hash-format = "sha512"
+hash = "912289c3da508e291d6b88382a6f5ed7559dc7fad99264e4bcb7bc0c203c2fd2af26df7274f96a4e14c185e51b6a9dc6eb3f89b06411ed5f6b28085ab95845ec"
+
+[update]
+[update.modrinth]
+mod-id = "xiakR5rt"
+version = "QvUAAffQ"

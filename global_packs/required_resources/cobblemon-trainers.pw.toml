@@ -1,0 +1,13 @@
+name = "Cobbled Trainers"
+filename = "a-0.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNLzxj2I/versions/q5Wx5WLY/a-0.5.zip"
+hash-format = "sha512"
+hash = "79dc08f39c6dbbcb44fae3b947675f120295f5c56dde409f09929c21e45a86c6c8eaaa77a18fdae02ddf7a345fa75b8379928949d0bcc2437c9e2d934bb028d1"
+
+[update]
+[update.modrinth]
+mod-id = "VNLzxj2I"
+version = "q5Wx5WLY"

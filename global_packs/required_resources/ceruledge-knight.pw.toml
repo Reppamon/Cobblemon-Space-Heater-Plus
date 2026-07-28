@@ -1,0 +1,13 @@
+name = "Ceruledge Knight Addon [Cobblemon]"
+filename = "Ceruledge Knight v2.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wr2h0jGy/versions/rh1YlOEu/Ceruledge%20Knight%20v2.0.zip"
+hash-format = "sha512"
+hash = "0976a23e7f732b7686787e1ab86de4dc2dd87d93e4c8a01b3ed9b835c052672ee96f109c9ccc4ba193f3b16d3ff408c5e1a5157c2812d3b89b3bde685ea48f27"
+
+[update]
+[update.modrinth]
+mod-id = "Wr2h0jGy"
+version = "rh1YlOEu"

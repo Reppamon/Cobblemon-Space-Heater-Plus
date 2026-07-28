@@ -1,0 +1,152 @@
+["Quick Toggles"]
+	#Master toggle for all EV items (overrides individual enables)
+	enable_all_ev_items = false
+	#Master toggle for all IV items (overrides individual enables)
+	enable_all_iv_items = false
+	#Master toggle for all type charms (overrides individual enables)
+	enable_all_type_charms = true
+	#If true, charms will be granted when a charm related advancement is earned
+	#Acts as a master toggle — if false, no charms are granted regardless of per-type settings
+	grant_charm_on_advancement = true
+
+	["Training Items"."EV Items"]
+		#Amount of EVs added by super EV items (default: 100, range: 1-252)
+		# Default: 100
+		# Range: 1 ~ 252
+		super_ev_increase_amount = 100
+		enable_super_carbos = true
+		enable_super_protein = true
+		enable_super_hp_up = true
+		enable_super_iron = true
+		enable_super_calcium = true
+		enable_super_zinc = true
+
+	["Training Items"."IV Items"]
+		#Amount of IVs added by super IV candies (default: 10, range: 1-31)
+		# Default: 10
+		# Range: 1 ~ 31
+		super_iv_increase_amount = 10
+		#Amount of IVs added by Gold Bottle Cap to ALL stats
+		#Default: 31 (instantly max out all IVs)
+		# Default: 31
+		# Range: 1 ~ 31
+		gold_bottle_cap_iv_amount = 31
+		enable_super_health_candy = true
+		enable_super_mighty_candy = true
+		enable_super_tough_candy = true
+		enable_super_smart_candy = true
+		enable_super_courage_candy = true
+		enable_super_quick_candy = true
+		#Enable Gold Bottle Cap (increases all IVs)
+		enable_gold_bottle_cap = true
+
+[Charms]
+	#If true, charms have no effect until the player earns the corresponding advancement
+	charm_effect_requires_advancement = true
+
+	[Charms."Shiny Charm"]
+		#Enable Shiny Charm item
+		enable_shiny_charm = true
+		#If true, the Shiny Charm will be given as an item reward when its advancement is earned
+		#Has no effect if grant_charm_on_advancement is false
+		grant_shiny_charm_on_advancement = true
+		#Shiny Charm multiplier (default: 3.0 = 3x better shiny odds)
+		#Cobblemon base rate: 1 in 8192
+		#With 3.0 multiplier: 1 in 2730
+		# Default: 3.0
+		# Range: 1.0 ~ 100.0
+		shiny_charm_multiplier = 3.0
+		#Percentage of the national Pokédex that must be caught to receive the Shiny Charm
+		#Default: 100.0 (full national dex completion)
+		#Example: 50.0 means the charm is given at 50% completion
+		# Default: 100.0
+		# Range: 1.0 ~ 100.0
+		shiny_charm_dex_threshold = 100.0
+
+	[Charms."EXP Charm"]
+		#Enable EXP Charm item
+		enable_exp_charm = true
+		#If true, the EXP Charm will be given as an item reward when its advancement is earned
+		#Has no effect if grant_charm_on_advancement is false
+		grant_exp_charm_on_advancement = true
+		#Experience multiplier when EXP Charm is equipped (default: 1.5 = 50% more EXP)
+		# Default: 1.5
+		# Range: 1.0 ~ 10.0
+		exp_charm_multiplier = 1.5
+
+	[Charms."Catch Charm"]
+		#Enable Catch Charm item
+		enable_catch_charm = true
+		#If true, the Catch Charm will be given as an item reward when its advancement is earned
+		#Has no effect if grant_charm_on_advancement is false
+		grant_catch_charm_on_advancement = true
+		#Catch rate multiplier when Catch Charm is equipped (default: 2.0 = double catch rate)
+		# Default: 2.0
+		# Range: 1.0 ~ 10.0
+		catch_charm_multiplier = 2.0
+
+	[Charms."Multi Charm"]
+		#Enable Multi Charm item (can combine multiple type charms)
+		enable_multi_charm = true
+
+	[Charms."Type Charms"]
+		#Radius in blocks where type charms affect spawns (default: 64.0)
+		# Default: 64.0
+		# Range: 1.0 ~ 256.0
+		type_charm_radius = 64.0
+		#Weight multiplier for Pokémon that match the charm type (default: 5.0)
+		# Default: 5.0
+		# Range: 1.0 ~ 100.0
+		type_charm_match_multiplier = 5.0
+		#Weight multiplier for Pokémon that don't match the charm type (default: 0.5)
+		#Set to 1.0 to disable the penalty
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		type_charm_non_match_multiplier = 0.5
+		#Percentage of implemented species of a type that must be caught to receive that Type Charm
+		#Calculated against currently implemented species, so it scales automatically as Cobblemon adds more
+		#Evolutions count separately (Charmander, Charmeleon, Charizard = 3 Fire entries, 1 Flying entry)
+		#Example: 10.0 means ~10 Fire (105 implemented), ~18 Water (182 implemented), ~7 Ice (70 implemented)
+		# Default: 80.0
+		# Range: 0.1 ~ 100.0
+		type_charm_threshold_percentage = 80.0
+
+		[Charms."Type Charms".Enable]
+			enable_bug_charm = true
+			enable_dark_charm = true
+			enable_dragon_charm = true
+			enable_electric_charm = true
+			enable_fairy_charm = true
+			enable_fighting_charm = true
+			enable_fire_charm = true
+			enable_flying_charm = true
+			enable_ghost_charm = true
+			enable_grass_charm = true
+			enable_ground_charm = true
+			enable_ice_charm = true
+			enable_normal_charm = true
+			enable_poison_charm = true
+			enable_psychic_charm = true
+			enable_rock_charm = true
+			enable_steel_charm = true
+			enable_water_charm = true
+
+		[Charms."Type Charms"."Grant On Advancement"]
+			grant_bug_charm_on_advancement = true
+			grant_dark_charm_on_advancement = true
+			grant_dragon_charm_on_advancement = true
+			grant_electric_charm_on_advancement = true
+			grant_fairy_charm_on_advancement = true
+			grant_fighting_charm_on_advancement = true
+			grant_fire_charm_on_advancement = true
+			grant_flying_charm_on_advancement = true
+			grant_ghost_charm_on_advancement = true
+			grant_grass_charm_on_advancement = true
+			grant_ground_charm_on_advancement = true
+			grant_ice_charm_on_advancement = true
+			grant_normal_charm_on_advancement = true
+			grant_poison_charm_on_advancement = true
+			grant_psychic_charm_on_advancement = true
+			grant_rock_charm_on_advancement = true
+			grant_steel_charm_on_advancement = true
+			grant_water_charm_on_advancement = true

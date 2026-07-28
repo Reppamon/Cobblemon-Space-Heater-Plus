@@ -1,0 +1,285 @@
+{
+  "hardInclude": "anything",
+  "includeList": [],
+  "includeListInSuperCategory": true,
+  "excludeMode": "ONLY",
+  "excludeList": [
+    "minecraft:glow_item_frame",
+    "minecraft:item_frame"
+  ],
+  "name": "gui.xaero_entity_category_root",
+  "protection": true,
+  "settingOverrides": {
+    "displayHeight": 0.0,
+    "displayed": true,
+    "heightBasedFade": true,
+    "renderOrder": 0.0,
+    "color": 13.0,
+    "displayNameWhenIconFails": true,
+    "entityNumber": 1000.0,
+    "alwaysDisplayNametags": false,
+    "dotSize": 2.0,
+    "startFadingAt": 0.0,
+    "renderOverMinimapFrame": 1.0,
+    "icons": 2.0,
+    "heightLimit": 20.0,
+    "names": 0.0,
+    "iconScale": 1.0
+  },
+  "subCategories": [
+    {
+      "hardInclude": "living",
+      "includeList": [],
+      "includeListInSuperCategory": true,
+      "excludeMode": "ONLY",
+      "excludeList": [
+        "minecraft:armor_stand"
+      ],
+      "name": "gui.xaero_entity_category_living",
+      "protection": true,
+      "settingOverrides": {
+        "renderOrder": 2.0,
+        "color": 14.0
+      },
+      "subCategories": [
+        {
+          "hardInclude": "players",
+          "includeList": [],
+          "includeListInSuperCategory": true,
+          "excludeMode": "ONLY",
+          "excludeList": [],
+          "name": "gui.xaero_entity_category_players",
+          "protection": true,
+          "settingOverrides": {
+            "renderOrder": 6.0,
+            "color": 15.0,
+            "heightLimit": 2050.0
+          },
+          "subCategories": [
+            {
+              "hardInclude": "nothing",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_friend",
+              "protection": true,
+              "settingOverrides": {},
+              "subCategories": []
+            },
+            {
+              "hardInclude": "tracked",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_tracked",
+              "protection": true,
+              "settingOverrides": {
+                "icons": 2.0
+              },
+              "subCategories": []
+            },
+            {
+              "hardInclude": "same-team",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_same_team",
+              "protection": true,
+              "settingOverrides": {},
+              "subCategories": []
+            },
+            {
+              "hardInclude": "anything",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_other_teams",
+              "protection": true,
+              "settingOverrides": {
+                "renderOrder": 7.0
+              },
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "hardInclude": "hostile",
+          "includeList": [],
+          "includeListInSuperCategory": true,
+          "excludeMode": "ONLY",
+          "excludeList": [],
+          "name": "gui.xaero_entity_category_hostile",
+          "protection": true,
+          "settingOverrides": {
+            "renderOrder": 3.0
+          },
+          "subCategories": [
+            {
+              "hardInclude": "nothing",
+              "includeList": [
+                "minecraft:blaze",
+                "minecraft:bogged",
+                "minecraft:cave_spider",
+                "minecraft:creeper",
+                "minecraft:elder_guardian",
+                "minecraft:enderman",
+                "minecraft:endermite",
+                "minecraft:ghast",
+                "minecraft:guardian",
+                "minecraft:hoglin",
+                "minecraft:husk",
+                "minecraft:magma_cube",
+                "minecraft:phantom",
+                "minecraft:piglin_brute",
+                "minecraft:pillager",
+                "minecraft:ravager",
+                "minecraft:shulker",
+                "minecraft:silverfish",
+                "minecraft:skeleton",
+                "minecraft:slime",
+                "minecraft:spider",
+                "minecraft:stray",
+                "minecraft:vex",
+                "minecraft:vindicator",
+                "minecraft:warden",
+                "minecraft:witch",
+                "minecraft:wither",
+                "minecraft:wither_skeleton",
+                "minecraft:zoglin",
+                "minecraft:zombie",
+                "minecraft:zombie_horse",
+                "minecraft:zombie_villager",
+                "minecraft:zombified_piglin"
+              ],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "Hostile Vanilla Mobs",
+              "protection": false,
+              "settingOverrides": {
+                "displayed": true,
+                "iconScale": 0.65
+              },
+              "subCategories": []
+            },
+            {
+              "hardInclude": "tamed",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_hostile_tamed",
+              "protection": true,
+              "settingOverrides": {
+                "renderOrder": 5.0
+              },
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "hardInclude": "anything",
+          "includeList": [],
+          "includeListInSuperCategory": true,
+          "excludeMode": "ONLY",
+          "excludeList": [],
+          "name": "gui.xaero_entity_category_friendly",
+          "protection": true,
+          "settingOverrides": {},
+          "subCategories": [
+            {
+              "hardInclude": "nothing",
+              "includeList": [
+                "minecraft:allay",
+                "minecraft:axolotl",
+                "minecraft:bat",
+                "minecraft:camel",
+                "minecraft:cat",
+                "minecraft:chicken",
+                "minecraft:cod",
+                "minecraft:cow",
+                "minecraft:donkey",
+                "minecraft:frog",
+                "minecraft:glow_squid",
+                "minecraft:horse",
+                "minecraft:llama",
+                "minecraft:mooshroom",
+                "minecraft:mule",
+                "minecraft:ocelot",
+                "minecraft:parrot",
+                "minecraft:pig",
+                "minecraft:rabbit",
+                "minecraft:salmon",
+                "minecraft:sheep",
+                "minecraft:skeleton_horse",
+                "minecraft:sniffer",
+                "minecraft:snow_golem",
+                "minecraft:squid",
+                "minecraft:strider",
+                "minecraft:tadpole",
+                "minecraft:tropical_fish",
+                "minecraft:turtle",
+                "minecraft:villager",
+                "minecraft:wandering_trader"
+              ],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "Friendly Vanilla Mobs",
+              "protection": false,
+              "settingOverrides": {
+                "icons": 2.0,
+                "iconScale": 0.65
+              },
+              "subCategories": []
+            },
+            {
+              "hardInclude": "tamed",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_friendly_tamed",
+              "protection": true,
+              "settingOverrides": {
+                "renderOrder": 4.0
+              },
+              "subCategories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hardInclude": "items",
+      "includeList": [],
+      "includeListInSuperCategory": true,
+      "excludeMode": "ONLY",
+      "excludeList": [],
+      "name": "gui.xaero_entity_category_items",
+      "protection": true,
+      "settingOverrides": {
+        "renderOrder": 1.0,
+        "color": 12.0
+      },
+      "subCategories": []
+    },
+    {
+      "hardInclude": "anything",
+      "includeList": [],
+      "includeListInSuperCategory": true,
+      "excludeMode": "ONLY",
+      "excludeList": [],
+      "name": "gui.xaero_entity_category_other_entities",
+      "protection": true,
+      "settingOverrides": {
+        "color": 5.0
+      },
+      "subCategories": []
+    }
+  ]
+}

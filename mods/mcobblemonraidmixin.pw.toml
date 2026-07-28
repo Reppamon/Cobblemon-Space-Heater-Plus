@@ -1,0 +1,13 @@
+name = "MCobblemonRaidMixin"
+filename = "MCobbleRaidMixinNeoForge-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vytcZMHd/versions/jQ0yBdw2/MCobbleRaidMixinNeoForge-1.1.0.jar"
+hash-format = "sha512"
+hash = "52aa4e406ad53b92bb3c9d89318c14e4e690bc7e4e6b70ba19f1435f25c649d7e4ed34427231209a4491217b634294061ab9ada51685ef4546a82203ce4b4b14"
+
+[update]
+[update.modrinth]
+mod-id = "vytcZMHd"
+version = "jQ0yBdw2"

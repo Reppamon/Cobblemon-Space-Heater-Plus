@@ -1,0 +1,13 @@
+name = "More Fishing Baits (Cobblemon Addon)"
+filename = "MoreFishingBaits1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sgQd6b5X/versions/6B7ehHsL/MoreFishingBaits1.2.zip"
+hash-format = "sha512"
+hash = "36f46f9d10717f57d0e407967547524df9a511dcc610f8cbf6051f531dce40e04d8f56fd51429877434351bed7778e72078b2c90e893c0418fb41e1b51a2a2a4"
+
+[update]
+[update.modrinth]
+mod-id = "sgQd6b5X"
+version = "6B7ehHsL"

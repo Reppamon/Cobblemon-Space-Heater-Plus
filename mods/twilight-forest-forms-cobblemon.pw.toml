@@ -1,0 +1,13 @@
+name = "Twilight Forest Forms [Cobblemon]"
+filename = "Twilight-Forms_v4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NXwNhfLB/versions/3gSJRXZF/Twilight-Forms_v4.0.jar"
+hash-format = "sha512"
+hash = "037f54481207558997751d598fedda2bc4e93c06941eb66631eefd5aadd9a594a52c34ba85706c797d543b7f39220ec3663b71e5e804c594b4f86c2e45c0ba68"
+
+[update]
+[update.modrinth]
+mod-id = "NXwNhfLB"
+version = "3gSJRXZF"
