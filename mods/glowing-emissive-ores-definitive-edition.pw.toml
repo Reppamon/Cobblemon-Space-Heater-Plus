@@ -1,13 +1,13 @@
 name = "Glowing Emissive Ores Definitive Edition"
-filename = "GEO-v0.3.0-NeoForge-1.21.1.jar"
+filename = "GEO-v0.3.3-NeoForge-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/U8Iw4AfP/versions/cHpli9zY/GEO-v0.3.0-NeoForge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/U8Iw4AfP/versions/DGVvIdcX/GEO-v0.3.3-NeoForge-1.21.1.jar"
 hash-format = "sha512"
-hash = "949d99fdd7fc3ac283a2aa3b20f46944b560cfb62d7086a3b038495d61fb6d0629770c9cd1668faab2da9f60a0ac8e1c2c220ff512614c15407dcbfa4b409f60"
+hash = "b04a7157a72a6a75031d3771da478b68f66d14c99da0702e32645a2c59471df9573aeca56f245e9ba1b73f580623538a66caca5e1931a07a92e86bc38f9156a3"
 
 [update]
 [update.modrinth]
 mod-id = "U8Iw4AfP"
-version = "cHpli9zY"
+version = "DGVvIdcX"

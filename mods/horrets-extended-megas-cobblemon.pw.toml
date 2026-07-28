@@ -1,13 +1,13 @@
 name = "Horret's Extended Megas"
-filename = "horretsextendedmega-neoforge-1.7.6.jar"
+filename = "horretsextendedmega-neoforge-1.7.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9iSTkx1V/versions/AxGmb9Oh/horretsextendedmega-neoforge-1.7.6.jar"
+url = "https://cdn.modrinth.com/data/9iSTkx1V/versions/NFOW0DE3/horretsextendedmega-neoforge-1.7.7.jar"
 hash-format = "sha512"
-hash = "bd99f90cf87ed21ea82ce7c13413faf780a00ae73a6a107d50e0f67318ef800957c352ff5ea210a104cebefb5170612f5a834e1b02d963920ca87557056b8170"
+hash = "2fc4d31ca15d9937987fb1bb74a4f9fa2d6cbd8422253cfde25eff327457906ab1ea9a3d3a12ec02e7e9ab5336675b3368cea13834e1d0839df3092682954ae2"
 
 [update]
 [update.modrinth]
 mod-id = "9iSTkx1V"
-version = "AxGmb9Oh"
+version = "NFOW0DE3"
