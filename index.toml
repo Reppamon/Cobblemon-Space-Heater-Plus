@@ -2869,7 +2869,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "486d5c8981f00aa767332db4739f6bfcc992bfefcffe64304bfe1de278daa385"
+hash = "35b95dd119a88d590788dea202bcc7ae6bc856c5091b032fe434eddcee719de1"
 metafile = true
 
 [[files]]
@@ -3684,7 +3684,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
-hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+hash = "8433629a518a65f2ccbda5110a87c3b3bdd16b22a8485a84876375841a763896"
 metafile = true
 
 [[files]]
