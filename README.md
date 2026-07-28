@@ -45,7 +45,7 @@ Download **Packwiz GUI** from the [releases page](https://github.com/AmberIsFroz
 Run the JAR file:
 
 ```bash
-java -jar PW-GUI-1.2.0-all.jar
+java -jar PW-GUI-v1.3.0.jar
 ```
 
 Then in the GUI:
