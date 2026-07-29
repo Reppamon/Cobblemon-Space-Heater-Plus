@@ -2938,11 +2938,6 @@ hash = "781f4451280b97332d818c14705626521a3dcd30c9c2cd3ea000be61d53de1dd"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-megas.pw.toml"
-hash = "6ac12f60c400f982e819b9498eaa6373e9287f359ad1cb26fcf3c8e97029b40d"
-metafile = true
-
-[[files]]
 file = "mods/craftemon.pw.toml"
 hash = "1e019afffd05d55d74c56718c658c267d63551d7bb4aca8920cc177f7a63b1ad"
 metafile = true
@@ -3490,11 +3485,6 @@ metafile = true
 [[files]]
 file = "mods/pokeblocks-unofficial.pw.toml"
 hash = "135555feb7e2973c7acb2ccc23bca899624de8f547cf6267711ddb019bb14b0a"
-metafile = true
-
-[[files]]
-file = "mods/poketwo.pw.toml"
-hash = "d640f915bc15787a1e3d4f2a7cabec76040a61069175306b01461c396780fad9"
 metafile = true
 
 [[files]]
