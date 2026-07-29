@@ -721,11 +721,6 @@ hash = "d19156a5cd763a821d6313213f5f1fe68cf9d3d9b604db93d1c97e551a5f6c4e"
 preserve = true
 
 [[files]]
-file = "config/cobblemon-more-pc-info.json"
-hash = "c938005f421340782761a9e4add7b564184d2109da240bde1594af8042afcf4c"
-preserve = true
-
-[[files]]
 file = "config/cobblemon/main.json"
 hash = "ab145cf5247588e43b70dae823a83b450608b78932056ca1a0ab133f05b694c4"
 preserve = true
@@ -2835,11 +2830,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "722f0d42f93f4fccd66c5aad64a7d6b09509880daddd6c9f79b3cc72aa2b64ad"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-more-pc-info.pw.toml"
-hash = "068c8a8df93434b3396958b63dc5d31e5d9ee7715a8a3b7db7ed39d2e9861bbb"
 metafile = true
 
 [[files]]
