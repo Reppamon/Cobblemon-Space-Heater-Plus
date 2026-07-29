@@ -2828,6 +2828,11 @@ hash = "6dc0747f249a105ef38d1a75a74736ec276bbf791a5bafd87a47a93a23b25b43"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-raid-den-icons.pw.toml"
+hash = "691014440c57a0521b9c29324a03719f35746555d5d6b3f7ec9d8445df80434e"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-raid-dens-addon-auto-raid-den-designs.pw.toml"
 hash = "ef8a4e3f1e201795935ffe83e6d42eab720ec526555a8e00dbe02297f208438b"
 metafile = true
@@ -3683,6 +3688,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "8757967b6fda327281f7f360f2ac4f8d6aab217ad9d1ce3d8fa5141b18a36175"
 metafile = true
@@ -3695,6 +3705,11 @@ metafile = true
 [[files]]
 file = "mods/twilight-forest-forms-cobblemon.pw.toml"
 hash = "7aa8730be373bcf179f0f86048a8e1ca4612ae3f0bb799b9718c25c85a3caadb"
+metafile = true
+
+[[files]]
+file = "mods/twilight-lootr.pw.toml"
+hash = "74d6c5320a013d992c65510be6376fbd7a0b4ee481a2398a230d72e8469d6c95"
 metafile = true
 
 [[files]]

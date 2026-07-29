@@ -1,0 +1,13 @@
+name = "Cobblemon Raid Dens Icons"
+filename = "cri-neoforge-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2712a1612bd7c67538301ba3449e73523778b45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8511747
+project-id = 1604194
