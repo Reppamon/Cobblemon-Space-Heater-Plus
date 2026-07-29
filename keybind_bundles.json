@@ -1,0 +1,114 @@
+[
+  {
+    "id": "f0a94d3e-545a-47cb-b758-93d2f7919a00",
+    "name": "Cobblemon",
+    "entries": [
+      {
+        "key": "key.cobblemon.summary",
+        "title": "Open Summary"
+      },
+      {
+        "key": "key.cobblemon.hideparty",
+        "title": "Hide Party Overlay"
+      },
+      {
+        "key": "key.cobblemon.ridingfreelook",
+        "title": "Riding Freelook"
+      },
+      {
+        "key": "key.berrypouch.open_pouch",
+        "title": "Open equipped Berry Pouch."
+      },
+      {
+        "key": "key.cobblemon_smartphone.open",
+        "title": "Open Smartphone"
+      },
+      {
+        "key": "key.cobblemon_smartphone.scanner",
+        "title": "Pokédex Scanner"
+      },
+      {
+        "key": "key.companion_bonds.open_contest_tracker",
+        "title": "Open Contest Tracker"
+      },
+      {
+        "key": "key.cobblemonexpall.toggle_exp_share",
+        "title": "Toggle Exp All Sharing"
+      }
+    ]
+  },
+  {
+    "id": "95577182-795d-45af-ae1c-28e91c647fd7",
+    "name": "Xaero\u0027s Map \u0026 Minimap",
+    "entries": [
+      {
+        "key": "gui.xaero_new_waypoint",
+        "title": "New Waypoint"
+      },
+      {
+        "key": "gui.xaero_minimap_settings",
+        "title": "Minimap Settings"
+      },
+      {
+        "key": "gui.xaero_toggle_map",
+        "title": "Toggle Minimap"
+      },
+      {
+        "key": "gui.xaero_open_map",
+        "title": "Open World Map"
+      },
+      {
+        "key": "gui.xaero_open_settings",
+        "title": "Open Settings"
+      },
+      {
+        "key": "gui.xaero_pac_key_open_menu",
+        "title": "Open Parties and Claims Menu"
+      }
+    ]
+  },
+  {
+    "id": "b920a3ae-cc79-440e-8c1a-7c7963c5faa8",
+    "name": "Building Wands",
+    "entries": [
+      {
+        "key": "key.wands.wand_menu",
+        "title": "Wand Menu"
+      },
+      {
+        "key": "key.wands.wand_undo",
+        "title": "Undo"
+      },
+      {
+        "key": "key.wands.palette_menu",
+        "title": "Palette Menu"
+      },
+      {
+        "key": "key.wands.clear_wand",
+        "title": "Clear Wand"
+      },
+      {
+        "key": "key.wands.wand_rotate",
+        "title": "Rotation"
+      }
+    ]
+  },
+  {
+    "id": "9446eb0f-1b3b-4f7f-9dfc-c997644604af",
+    "name": "Create",
+    "entries": [
+      {
+        "key": "create.keyinfo.toolmenu",
+        "title": "Focus Schematic Overlay"
+      },
+      {
+        "key": "create.keyinfo.rotate_menu",
+        "title": "Open Block Rotation Menu"
+      },
+      {
+        "key": "create.keyinfo.toolbelt",
+        "title": "Access Nearby Toolboxes"
+      }
+    ]
+  }
+]

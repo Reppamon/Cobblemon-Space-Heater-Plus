@@ -1,0 +1,13 @@
+name = "Charged Charms"
+filename = "chargedcharms-1.21.1-2.2.1.4-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cqzqfZKX/versions/Rvvd1kCp/chargedcharms-1.21.1-2.2.1.4-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "f847ed38bc2e39ab80a9272994dd849f848299a3070ccf491b80e56ab1b113c2c0b323f99e2db25ab67a4ec0a4053eb51e40b19fc3008ec7e61c131cfeea55c1"
+
+[update]
+[update.modrinth]
+mod-id = "cqzqfZKX"
+version = "Rvvd1kCp"

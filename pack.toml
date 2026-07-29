@@ -1,12 +1,12 @@
 name = "Cobblemon Space Heater+"
 author = "Mootoo & Reppamon"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8cfddbd9d9ca339cc84debc14ae534ac45f82daf3b09f5180908e427450609eb"
+hash = "449aade21de092c38851443d8110733b4afdce4b08420ee39615271fe465b407"
 
 [versions]
 minecraft = "1.21.1"

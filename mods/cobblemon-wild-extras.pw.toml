@@ -1,0 +1,13 @@
+name = "Cobblemon Wild Extras"
+filename = "cobblemon_wild_extras-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HasBFHl0/versions/VeUH55nl/cobblemon_wild_extras-neoforge-1.1.1.jar"
+hash-format = "sha512"
+hash = "d8e3cc2ac0150ee2fa407208bfc5231eff19e2e94c07598e4d4450a0687b441fd5a0018b795147dbff5b4080eabed30718a6ec6fcc22ed8df0b2de35d437923a"
+
+[update]
+[update.modrinth]
+mod-id = "HasBFHl0"
+version = "VeUH55nl"

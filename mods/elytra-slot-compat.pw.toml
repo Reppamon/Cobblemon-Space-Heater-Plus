@@ -1,0 +1,13 @@
+name = "Elytra Slot Compat"
+filename = "elytra-slot-customcompat-neoforge-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QhgCU98O/versions/WiIbbtkJ/elytra-slot-customcompat-neoforge-1.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "f104fa0e7906963b4f41905d27e365363824e36b51d798ecfca1816d3211a14d3f021da2b6247c82d855f9cc39e2745d8cde253d686fce3a2237e5b692788870"
+
+[update]
+[update.modrinth]
+mod-id = "QhgCU98O"
+version = "WiIbbtkJ"

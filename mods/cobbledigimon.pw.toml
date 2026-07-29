@@ -1,0 +1,13 @@
+name = "CobbleDigimon"
+filename = "CobbleDigimon.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ipGRoxkR/versions/NE3x4wqX/CobbleDigimon.jar"
+hash-format = "sha512"
+hash = "4ba8e8c77fcf7823d9d8eae86ee88add1939cdd718b21373ea8c02dcaac9561297b2db8f0bf79de14ee15a935f3d8d51f2ca345787f5cf23a20876945d57d695"
+
+[update]
+[update.modrinth]
+mod-id = "ipGRoxkR"
+version = "NE3x4wqX"

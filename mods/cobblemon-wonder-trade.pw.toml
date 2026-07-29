@@ -1,0 +1,13 @@
+name = "Cobblemon Wonder Trade"
+filename = "cobblemon_wonder_trade-neoforge-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bfndVmco/versions/fGFCcolu/cobblemon_wonder_trade-neoforge-1.2.2.jar"
+hash-format = "sha512"
+hash = "c8e31852845c5d2e8c3a58197a682fb9420a3808b79c1104323e8a2ba87dd4718657de7d956b7099960acf60a9240b97430ad46e373146448d7b04d935193d58"
+
+[update]
+[update.modrinth]
+mod-id = "bfndVmco"
+version = "fGFCcolu"

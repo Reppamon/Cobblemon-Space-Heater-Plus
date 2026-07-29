@@ -2498,6 +2498,11 @@ hash = "058637c5eed9eead76e214f8a39a65f324d0595f2d9674acbbd957a68d8886ee"
 metafile = true
 
 [[files]]
+file = "keybind_bundles.json"
+hash = "10c6bf1123a81007313903f81c35ac22b1bb4a25babaeea9cbb681205d394ccb"
+preserve = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -2508,6 +2513,11 @@ hash = "5b76c40510e3ce815636c197315cb1a74aea0f6f8cf17aee18ac191def9fa17d"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -2515,6 +2525,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "4a7568e25cac4f4bedba140135036d9481403069a6d9513a922e9901661c05ca"
+metafile = true
+
+[[files]]
+file = "mods/aios-extra-structures!.pw.toml"
+hash = "3963272c327c3b76eb0e8f2a3ce3cc75da9a8ad27765bb92c295e03f6420cd11"
 metafile = true
 
 [[files]]
@@ -2598,6 +2613,16 @@ hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
 metafile = true
 
 [[files]]
+file = "mods/beltborne-lanterns-accessories-layer.pw.toml"
+hash = "d4b7f6cf00243e6963d28933424141debda012dbfc4e41d4954defac67b2156b"
+metafile = true
+
+[[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "a3d64a9bc113d1bca287ee2c47d832685c8d4b8807032cecd8dfffd35a070709"
+metafile = true
+
+[[files]]
 file = "mods/berry-pouch.pw.toml"
 hash = "bb728d408e8be5bb10410622c34ed2fc0681b2d9f9dbe5dacee3d30b9369d95b"
 metafile = true
@@ -2678,6 +2703,11 @@ hash = "dd535f37be20910d87e64613eedacfdfcf45965ccac594a7e5b3236b3940bb4f"
 metafile = true
 
 [[files]]
+file = "mods/charged-charms.pw.toml"
+hash = "fd5d086d289a968c5b3c0d20b939dc3933664bfd2ca3d19bcfe8e3f3417a675f"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
 metafile = true
@@ -2710,6 +2740,11 @@ metafile = true
 [[files]]
 file = "mods/cobbledgacha.pw.toml"
 hash = "97bc20435186e1461db034855b0ed0143eddba84e71cc3f6b9ee867e51d4b2cb"
+metafile = true
+
+[[files]]
+file = "mods/cobbledigimon.pw.toml"
+hash = "2f2747c0ffec0322ae9cbc7343dd2629bb370b73a6073207c304c2b8c19720c2"
 metafile = true
 
 [[files]]
@@ -2808,6 +2843,11 @@ hash = "068c8a8df93434b3396958b63dc5d31e5d9ee7715a8a3b7db7ed39d2e9861bbb"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-party-extras.pw.toml"
+hash = "59cbf16779a3e732502fe83b36fb11633f52d2a2c33da3a279c6d5cbc141b5fe"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pasture-extractor.pw.toml"
 hash = "51cfbd886223942aee09dddfaf53f64e7a88041d97d9301e9477ebc7e8a09feb"
 metafile = true
@@ -2883,6 +2923,16 @@ hash = "0675e26dce28b391c6d26f8bf7037c8f7839251e6bfe2400f82702d4274eeaac"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-wild-extras.pw.toml"
+hash = "589ecfa1a9b59417374688749218ebbe0072618755a058531f090a3243841768"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-wonder-trade.pw.toml"
+hash = "78afd998e48be394867b0248332538f7c7120f34ca62adab42612f919548849f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
@@ -2935,6 +2985,11 @@ metafile = true
 [[files]]
 file = "mods/crd-broadcasts.pw.toml"
 hash = "9de660f0a09859d49b0f593c16223f2ef5834b64fb47f0013de0b0d9e4815c84"
+metafile = true
+
+[[files]]
+file = "mods/create-accessories-compat.pw.toml"
+hash = "f590495e4172232ee17436ca97e530fb6fe9c62a2fc3abad91eda799edefcb07"
 metafile = true
 
 [[files]]
@@ -3010,6 +3065,11 @@ metafile = true
 [[files]]
 file = "mods/elemental-wizards-rpg.pw.toml"
 hash = "2018f807536ce622bd392b87fe75e902dab706f2a9d4d934623b162e07324b4d"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot-compat.pw.toml"
+hash = "8357401d83e24d5d2d587e378dd0fafdbadc497b90c0bee628da02f31b559c2e"
 metafile = true
 
 [[files]]
@@ -3110,6 +3170,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-knives.pw.toml"
 hash = "59fd6c384d7b84bc8ddf53738034acf1d1fe33ee855521d0dec1af9f6b855aa0"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
 metafile = true
 
 [[files]]
@@ -3410,6 +3475,11 @@ metafile = true
 [[files]]
 file = "mods/no-enderman-grief.pw.toml"
 hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings-forge.pw.toml"
+hash = "3fb3a7b2f288770f8df411109733184353d2e3fc6c28c28e0824feb3e26ee140"
 metafile = true
 
 [[files]]
@@ -3763,6 +3833,11 @@ hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
+file = "mods/yeetus-narratus.pw.toml"
+hash = "49f2576cc8706aeba579ba222adbca79dd05649ac5ed33abfc1a8f6971b19637"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
@@ -3781,6 +3856,11 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "165466fe8e528309d95875396f2a5e13c0bab7bcb0c1134d1fd5f3a935d488f5"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "7202f827aabe31bc16ecbf2e15db0dacfc2a94fda9020b2f6535fa8f852e9973"
+preserve = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
