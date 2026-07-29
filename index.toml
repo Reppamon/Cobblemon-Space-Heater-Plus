@@ -2278,11 +2278,6 @@ hash = "4f1a3c956db32282f115b0f56bb44eb0f42bdd24e106bdee6d59dd65a75a4f28"
 metafile = true
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-beyond-the-stars.pw.toml"
-hash = "9c09ec8514baeef3d2fe4e4fa94e7c4f4b28da3f67d4bfa62f0a1bf855c7e341"
-metafile = true
-
-[[files]]
 file = "global_packs/required_resources/cobblemon-box-wallpapers.pw.toml"
 hash = "967c89050e91aff77e89fa881f3edaaf976b8fed6d2941bca3a1a9a5421dff1c"
 metafile = true
@@ -2925,16 +2920,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
-metafile = true
-
-[[files]]
-file = "mods/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
-hash = "b330a5b205cd19f9c606a837f393d83430f1918fc0bbf4e90f6af6463f0cc2b5"
-metafile = true
-
-[[files]]
-file = "mods/complete-cobblemon-collection-w-legendary-spawns.pw.toml"
-hash = "781f4451280b97332d818c14705626521a3dcd30c9c2cd3ea000be61d53de1dd"
 metafile = true
 
 [[files]]
