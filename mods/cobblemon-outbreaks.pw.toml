@@ -1,0 +1,13 @@
+name = "Cobblemon Outbreaks"
+filename = "cobblemon_outbreaks-neoforge-1.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nxE2RfXE/versions/Zpr8GuTr/cobblemon_outbreaks-neoforge-1.1.2.jar"
+hash-format = "sha512"
+hash = "c31ab36554e6d7f1e24a9d334e12f95c023d24cb066eb8d37651ef809acfd58f2a676d8fc8c496269b684973f3f892064a1afe947f26b9552885ff9bf2c6a27b"
+
+[update]
+[update.modrinth]
+mod-id = "nxE2RfXE"
+version = "Zpr8GuTr"

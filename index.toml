@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Cobblemon-Space-Heater-Plus.code-workspace"
+hash = "69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b"
+
+[[files]]
 file = "config/CSC/CSC_Warn.log"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 preserve = true
@@ -793,11 +797,6 @@ preserve = true
 [[files]]
 file = "config/cobblemonexpall.json"
 hash = "341fe0fa31536ec7b808ecd5fc839d20bd024a1f83621d4112af07c9882a0c27"
-preserve = true
-
-[[files]]
-file = "config/cobblemonoutbreaks/outbreaks_config.json"
-hash = "57e758804a2fd3812af9b14467bd737391a9ff0e2a7b6998566a447fc4d978ea"
 preserve = true
 
 [[files]]
@@ -2146,11 +2145,6 @@ hash = "1ab5bd5fdd0c2930820783fb0153292424c330f3d86c89a277af5f35ac764e88"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/cobblemon-outbreaks++.pw.toml"
-hash = "228450dbc63115d2730bdf1c779679065a6d0864c982d0bde0107985e4400b8f"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/cobblemon-sniffer-archaeology.pw.toml"
 hash = "611d6f2611d7007164295a72f87f449b3196a4433fcde91a21be5f585bb53f8d"
 metafile = true
@@ -2217,6 +2211,10 @@ metafile = true
 file = "global_packs/required_data/swapballsreborn-cobblemon.pw.toml"
 hash = "5fe399879b665f59da3c893e0944cf2c337bf8bbebbd1a94fee9b526b0b6fc07"
 metafile = true
+
+[[files]]
+file = "global_packs/required_resources/Cobblemotion_v1.5.1.zip"
+hash = "73e4aa10e9d3a9f3af67a47cef32a7e9a447804216df33e31d1871c2cdf6ce96"
 
 [[files]]
 file = "global_packs/required_resources/Pinkan.zip"
@@ -2355,11 +2353,6 @@ metafile = true
 [[files]]
 file = "global_packs/required_resources/cobblemonmorecosmetics.pw.toml"
 hash = "43f2bb42ddb64701c89d2d872bbb425d53aac1eb3e23dbbe290dad8dd7e13bf2"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/cobblemotion.pw.toml"
-hash = "f8b1c73eb8a2b1119f9401b505171284aa9212fa697614c8554dd5cce3f3620a"
 metafile = true
 
 [[files]]
@@ -2818,11 +2811,6 @@ hash = "10f2c74ea02c8c7bb7266bef648b718f1a70ed04f32f37b8d9b56b2ffaf365ff"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "e4132572e5b4d2a2143cf16fc8d9cf8391a4392cf1545343b31a28e36d4a03f5"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-mc-swords-for-honedge-line.pw.toml"
 hash = "754eb633b30a9f53663dedd2926f15c047885a1248ab2a04dc91b7abef17abd2"
 metafile = true
@@ -2830,6 +2818,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
 hash = "722f0d42f93f4fccd66c5aad64a7d6b09509880daddd6c9f79b3cc72aa2b64ad"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-outbreaks.pw.toml"
+hash = "379e4d04a4a43f9a8391a7cabe523686fe9af09c21b88cb9d602b8a7a8908993"
 metafile = true
 
 [[files]]
