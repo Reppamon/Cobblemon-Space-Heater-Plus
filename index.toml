@@ -3755,11 +3755,6 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
-file = "mods/packforge.pw.toml"
-hash = "d5b6c437e5ea9058c96e0584131cb52eba47fb890c4812e61168990e08238254"
-metafile = true
-
-[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a1b6df801195f130a65fca1be2bd2d20e50ec27fcada267f6c18f10a258eea05"
 metafile = true
