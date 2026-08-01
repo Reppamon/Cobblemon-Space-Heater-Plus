@@ -1,13 +1,13 @@
 name = "CobbleSafari"
-filename = "cobblesafari-neoforge-1.21.1-0.3.1.jar"
+filename = "cobblesafari-neoforge-1.21.1-0.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zj3GsKts/versions/Z4rkCr3x/cobblesafari-neoforge-1.21.1-0.3.1.jar"
+url = "https://cdn.modrinth.com/data/zj3GsKts/versions/1UgKFdEa/cobblesafari-neoforge-1.21.1-0.3.2.jar"
 hash-format = "sha512"
-hash = "762b5783205eb747779b29c08532395bb552fdb31300d6ddddc409c0a14739c13db67056edf22d0f581d4884c2ce0f6ef581d06283d4fb54d9b8fff47119227f"
+hash = "e3e79896832e3c3739408d2917ef3abb83f8457d50daf70ea6136c450c601286bc03e30e099e3c10ee9e8a837d65694aa1228f569b594ea878f8bec89548ad2f"
 
 [update]
 [update.modrinth]
 mod-id = "zj3GsKts"
-version = "Z4rkCr3x"
+version = "1UgKFdEa"

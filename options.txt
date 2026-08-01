@@ -337,6 +337,7 @@ key_key.cobblemon_synchro_machine.detransform:key.keyboard.unknown
 key_key.cobblemon_synchro_machine.toggle_morph:key.keyboard.unknown
 key_key.cobblemon_synchro_machine.emote_wheel:key.keyboard.unknown
 key_key.cobblemon_synchro_machine.set_cosmetic:key.keyboard.unknown
+key_key.yeetusnarratus.toggle_narrator:key.keyboard.unknown:CONTROL
 key_gui.xaero_pac_key_open_menu:key.keyboard.unknown
 soundCategory_master:0.22682119205298013
 soundCategory_music:0.0

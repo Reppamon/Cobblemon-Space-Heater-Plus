@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Cobblemon-Space-Heater-Plus.code-workspace"
-hash = "69e7b37e2ebdaf8fc313bf6cb74882fed65895e5f853736e65759bafb333bc6b"
-
-[[files]]
 file = "config/CSC/CSC_Warn.log"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 preserve = true
@@ -2120,370 +2116,308 @@ hash = "8e23412c587a2350337de184b152a297778b3760f8b40dc5c2aac29f4b7a8cd3"
 preserve = true
 
 [[files]]
-file = "global_packs/required_data/berrymashing.pw.toml"
-hash = "23f408d0e2e7bdca79fa96713878e45f64b8beec50261b36e538e0cb293701dd"
-metafile = true
+file = "global_packs/required_data/BCA-Datapack-3.8_CE_Cobbledollars_M1.21.1_C1.6.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/cobblemon-additions.pw.toml"
-hash = "ca5d2282771d0b7095de297ed0f214adc8e3ecacb454be6ddca1974341baa210"
-metafile = true
+file = "global_packs/required_data/Cobblemon Champions Addition [v2.1.0]-ZA.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/cobblemon-champions-addition.pw.toml"
-hash = "d244fa0f852e36137566008652a21de3d93aa7e6ea75903001cc8aa185e24185"
-metafile = true
+file = "global_packs/required_data/Cobblemon Sniffer Archaeology v1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/cobblemon-loot-buffs.pw.toml"
-hash = "b70a545e03c29cc2925d216221480235f433cf87037aa3749694404f2beb420d"
-metafile = true
+file = "global_packs/required_data/CobblemonLootBuffs1.0.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/cobblemon-modded-drops.pw.toml"
-hash = "1ab5bd5fdd0c2930820783fb0153292424c330f3d86c89a277af5f35ac764e88"
-metafile = true
+file = "global_packs/required_data/CobblemonModdedDrops.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/cobblemon-sniffer-archaeology.pw.toml"
-hash = "611d6f2611d7007164295a72f87f449b3196a4433fcde91a21be5f585bb53f8d"
-metafile = true
+file = "global_packs/required_data/CobblemonRaidDenDesigns-0.5_RELEASE.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/MoreFishingBaits1.2.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/MoreRecipes 1.2.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/PokeCenter_PCs_1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/RCT-Badges-CobblemonPokemonBadges-0.15+1.1.2.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/SwapBallsReborn 1.2.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/berrymashing.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_data/cobblemonoutbreaks++.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/cobblemonraiddens-dynamax.zip"
-hash = "b081f021f69bfe29013508a2ec46a4c0722012efb50ecc81ca61fc3b5ef9d49a"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/cobblemonraiddens-legendaries.zip"
-hash = "2888c972c88f0b84bdc5cda4b87b4eeb052722a6bf91bca11ff30b435baa7f49"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/cobblemonraiddens-mega_msd.zip"
-hash = "2608e9594fbcf88097e9f1e31330750fb6e838b49f391efe9be1ff6af3e30559"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/cobblemonraiddens-natdex.zip"
-hash = "211c24e4a9d4b1ca97eeac4300fc478127d97b9233cba031461fce53e480a881"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/cobblemonraiddens-tera.zip"
-hash = "9506239286432e5ae403025b92a4cde3fb0da458a71ce9ae538cbb789927835c"
-
-[[files]]
-file = "global_packs/required_data/cobblemonraiddens-typedesigns.pw.toml"
-hash = "a7e28b2d67af530d194cabd6518922bce3c8892dd1c54a74c57f2dbe0e6447e3"
-metafile = true
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/cobblemonraiddens-ub+paradox.zip"
-hash = "833148ff7fe802ad5c96c823af5ee847fffcdde6e47ddc9bd327e31d2d821e1f"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_data/cobblemonraiddens-za-megas.zip"
-hash = "bc3f6cb98c27efc95422a7a0fb7e64a5ff91f69b154fa9108293139dcd77141c"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/mega-showdown-extra-megas-companion-pack.pw.toml"
-hash = "94d423d73376f7f40a6ee4bf60e81e61fb42c4bf712105704c845b73bfe5ca6e"
-metafile = true
+file = "global_packs/required_data/msdextramegas_companionpack.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/more-fishing-baits-cobblemon.pw.toml"
-hash = "86486639c9f6c675a9bae4b5c7d3227669c6b27a6b9d5d1315b5d6808776487a"
-metafile = true
+file = "global_packs/required_resources/ATM x MSD [v3.6.1].zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/morerecipes-cobblemon.pw.toml"
-hash = "da3b9f48ba787afcf0b1c1d03a4714ac7f23b1f7cbe2a554f383993b71e82947"
-metafile = true
+file = "global_packs/required_resources/AllRideMons_CM-1.7.3.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/pokecenter-pc-cobblemon.pw.toml"
-hash = "8a8962c66d426d1c662314085cf78358b72f2e59e3e1464b6985874af5c2f523"
-metafile = true
+file = "global_packs/required_resources/Astolfo's Mons.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/rct-badges-cobblemonpokemonbadges.pw.toml"
-hash = "860c49bdd3c673c8e0756a30bbb087470db55295b757772c6bac5bec713465f2"
-metafile = true
+file = "global_packs/required_resources/Canon PC Wallpapers.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_data/swapballsreborn-cobblemon.pw.toml"
-hash = "5fe399879b665f59da3c893e0944cf2c337bf8bbebbd1a94fee9b526b0b6fc07"
-metafile = true
+file = "global_packs/required_resources/Ceruledge Knight v2.0.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cheese-BoxWallpapers.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobbled_Beasts.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobbled_Variants_1.4.6.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobblefusions!.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobblemon Accessories v5 [1.7].zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobblemon Cosmetic Expansion.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobblemon Dyable Starters 1.0.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobblemon Fusiomon - By JIDAIT (1.0.0).zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobblemon Sweets 1.7.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cobblemon improvedmon v1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/CobblemonFossilHybrids!.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/CobblemonMoreCosmetics Release v1.1.7-1.21.x.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_resources/Cobblemotion_v1.5.1.zip"
-hash = "73e4aa10e9d3a9f3af67a47cef32a7e9a447804216df33e31d1871c2cdf6ce96"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Cryptonia_v4.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/E19 Cobblemon Minimap Icons.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Evangelion.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Extra Paradox Mons 1.7.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Fully Hisuian Starters 1.1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Hanas-Cobblemon-Blahaj.v1.2.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Kobellian Form Wooper v.1 Hotfix Addon.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Laser's Remodel Pack v1.0.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Mega Showdown Repolished.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/POKEMON TOOLS.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
+
+[[files]]
+file = "global_packs/required_resources/Pickle's_Fakemon 1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "global_packs/required_resources/Pinkan.zip"
-hash = "d0a101403eff9bee6acdd2230999d9671be4903276d588e7816197b63de7c42c"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "717c920b406cf6ae8ac43ac402373660be271e78f27fb32aa4f522ee5d51d1ba"
-metafile = true
+file = "global_packs/required_resources/PokeCostume v.3.3.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/astolfos-mons.pw.toml"
-hash = "e75fc5be0c3912dea1c871a91f41424f22ecb29145b74b94c81ec1d59c997f9f"
-metafile = true
+file = "global_packs/required_resources/PokePaintings DP 1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/canon-pc-wallpapers.pw.toml"
-hash = "d82ce3f58177c4e652cfd8e766227ffae919adc271fd3c57560ede77b5db6a72"
-metafile = true
+file = "global_packs/required_resources/PokéGals [v1.0].zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/ceruledge-knight.pw.toml"
-hash = "bc8c527c6fca0ee87aa4f5b462c32b1378d34fa0c009d6f92699b5ebf39b11e9"
-metafile = true
+file = "global_packs/required_resources/Seavls Bizarremons 1.1.0v.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobbled-beasts.pw.toml"
-hash = "e12b0b190e70a6c4300363787bd91b6a068e925dffcd632ca370d8d74f9a33a2"
-metafile = true
+file = "global_packs/required_resources/StylesUponStyles.v.1.4.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobbled-variants.pw.toml"
-hash = "9ac1a28144d6f5bf934503b9b8efc0477707f6f22aa17b219d0496d638068ade"
-metafile = true
+file = "global_packs/required_resources/Syn_Eevees_0.1.0.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobbledtools.pw.toml"
-hash = "46604c297bac932dba9c5e5996aa2b04ec464207bc31cde04f48472491156453"
-metafile = true
+file = "global_packs/required_resources/TGGs_Oddities.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblefusions!.pw.toml"
-hash = "e0121c5239588d9281d8e19492add014c213854135ed84f36c28d963872c3184"
-metafile = true
+file = "global_packs/required_resources/ThatBois Megamon - [1.0.2].zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-accessories.pw.toml"
-hash = "c6da9ee26af1868551cbe97f5a8bdb6ab3b2e2a6ab7f8b50b32bbd286955f251"
-metafile = true
+file = "global_packs/required_resources/Triple Bakalutions - 1.1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-all-ride-mons.pw.toml"
-hash = "4f1a3c956db32282f115b0f56bb44eb0f42bdd24e106bdee6d59dd65a75a4f28"
-metafile = true
+file = "global_packs/required_resources/Vivillon Pride Patterns v2.0.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-box-wallpapers.pw.toml"
-hash = "967c89050e91aff77e89fa881f3edaaf976b8fed6d2941bca3a1a9a5421dff1c"
-metafile = true
+file = "global_packs/required_resources/Wallpapers Plus! 2.0.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-cosmetic-expansion.pw.toml"
-hash = "c465cb7bc9ba5e842b455031c1e2ced56d52412f1c74ceeab072f827e0f58ca7"
-metafile = true
+file = "global_packs/required_resources/Xadok's Megas.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-dyable-starters.pw.toml"
-hash = "f5f553dec402875fe8c1e7f6a17151289e5b206655ea2a795cbf938b6ba96732"
-metafile = true
+file = "global_packs/required_resources/YuhanCollection2.2.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-fossil-hybrids!.pw.toml"
-hash = "133e4d7ce93ce26ff32abd34b9024d8a4e0717de4f6b5cfa80c90536d758887b"
-metafile = true
+file = "global_packs/required_resources/[4.2.1] Flower Expansion.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-fusiomon-.pw.toml"
-hash = "8a5ce132e473bbf058a53d35caa88d2fb7b07a4a75dd7025f785236cb27730a1"
-metafile = true
+file = "global_packs/required_resources/[RELEASE] Cottagemon Addon.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-grow-and-gather.pw.toml"
-hash = "b079fbc030d684d5501d1ac88cf810c178d136ee87b1a300bea1dad9308fdbf5"
-metafile = true
+file = "global_packs/required_resources/[V.1.4.1] Cobblemon Stellar Blue.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-improvedmon.pw.toml"
-hash = "78e82be2757b8e40bf3a340932e732e5f34dafe7f76908f3322a9c07889f2c14"
-metafile = true
+file = "global_packs/required_resources/[v 1.01] Pokemon Sunset Orange.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-kittycats.pw.toml"
-hash = "9709a45ac99fade19d2d574ccab94cf41378cfefdba8ed04f757eb6567550ce4"
-metafile = true
+file = "global_packs/required_resources/[v.2.02] Pokemon Grow and Gather Reborn.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-seavls-bizarremons.pw.toml"
-hash = "6d6da271a568782d91d8580d496d3ea1901c532216de2a6c60834b338328f563"
-metafile = true
+file = "global_packs/required_resources/[v1.15] Storybook Hybrids.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-stellar-blue.pw.toml"
-hash = "1481a1862f49c878ae610cfe959baa0c53fbcba6b0186ccae3668fcec59be4ba"
-metafile = true
+file = "global_packs/required_resources/[v1.37] Jet's Biome Besties.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-sunset-orange.pw.toml"
-hash = "7303ca3eb7ccd306a61ee8b544c4707964bc03e80af65864fc49d8bb407a16cd"
-metafile = true
+file = "global_packs/required_resources/a-0.5.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-sweets.pw.toml"
-hash = "dfdaaca01d1752514b3fdeeb3f0778b9fe1eb0e255777cd9043654602b6e6616"
-metafile = true
+file = "global_packs/required_resources/cobblemon_kittycats1.1.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-syn-eevees.pw.toml"
-hash = "f171a32a1034cc1787a72f7e10a8fffdf8019071dd5943e1c61d27e24792f965"
-metafile = true
+file = "global_packs/required_resources/fanmade form funfair v.1.4.0.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-the-evangelion-add-on.pw.toml"
-hash = "51e63a2e7cb70daf8a75f1b3233f3949178ee5f8bd969971df4e168b5b9f2928"
-metafile = true
+file = "global_packs/required_resources/lots_o_spheal_a_surfers_dream.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
-file = "global_packs/required_resources/cobblemon-trainers.pw.toml"
-hash = "727a4959bf2f82092a91104117d8ddd645f583f19ac5f5d30e565a5e8d9c2bfb"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/cobblemon-wallpapers-plus!.pw.toml"
-hash = "e41c2ce218a6afad23ca72e13d15461abf9ac2ec1fc2514589df82087ffd2ee8"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/cobblemonmorecosmetics.pw.toml"
-hash = "43f2bb42ddb64701c89d2d872bbb425d53aac1eb3e23dbbe290dad8dd7e13bf2"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/cottagemon-addon.pw.toml"
-hash = "cc26bfef76b6097406d4662a495e7ba14c141953772f55ff3c7f01dfdd668a7a"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/cures-fakemon-stuff.pw.toml"
-hash = "83344e868a64b57fda3bd1a1f6c90fa212b8b2b8305ed334b73ad030d77079f6"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/e19_cobblemon_minimap_icons.pw.toml"
-hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/extra-paradox-mons.pw.toml"
-hash = "419055b26fb505ae3b59fb200d576a52e72e428b9d399cb9c2ae1eacba0074f4"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/fanmade-form-funfair.pw.toml"
-hash = "a85778b8340fc24ccc598a60b687d0fced374cc230fb9504e31f462535c528a1"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/flower-expansion-cobblemon.pw.toml"
-hash = "b93a2bd9fb3d7f3cbb434f3a06a33c086542829b1fbd1adac29f9f79d6fe8d01"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/fully-hisuian-starters.pw.toml"
-hash = "94071b91d3cd455ffd0a6252d56f1d1996021386825710cce3a0f3c9c8e3a41a"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/hanas-cobblemon-pride-blahaj.pw.toml"
-hash = "2edd205cdb6a3c4effbf6f6b06164e6e18c613186d1588a3cf7a79b044ea0a06"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/jets-biome-besties.pw.toml"
-hash = "092ed948e54cd9351419ac22a5d6db6f55458e0059ea7fb4ca7970edb81ba06c"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/kobellian-form-wooper-cobblemon-addon.pw.toml"
-hash = "97ca9be9512ad5c82c6c83ba2393df0188da1cd8bce6f58fb413af59c8c9710f"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/lasers-remodel-pack.pw.toml"
-hash = "4f55548e706753eda4ba1e3a22f4dcd776050fd0f67f934828a55a1995341442"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/lots-o-spheal.pw.toml"
-hash = "cb21fbce59e4a217c8eeaf120eafbed367db2fbdf6d31386f543291e3bdb9121"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/megashowdown_repolished.pw.toml"
-hash = "569bcdad755f2457b8feee58e0e630611b7885403d700c3c155e8046ae8e2237"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/msd-repolished-extras.pw.toml"
-hash = "9c9e71b205fdbd5d8bedde9f5ac392e0068a7b62fb6e395a50b11eecdb88581b"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/pickles-fakemon.pw.toml"
-hash = "9c8d8717f5beaba0518470de0ff2d309c87f063e66fd35f6b846cb26fee0f1a2"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/poke-costume.pw.toml"
-hash = "194ab44d20c891ae72d9956ce29301324f104400484a3ac0e7663e682412c2e4"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/pokepaintings.pw.toml"
-hash = "9020f157b01afbb51af5621b41a3df1923d4bc188019c07d0c8a41c5cb53ef5f"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/pokgals-cobblemon.pw.toml"
-hash = "ed8e85d575a2456865e6d3a97670128c6fa4f11b41cf79eb372ea8efb4c4a991"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/storybook-hybrids.pw.toml"
-hash = "89c61c58a54f9f1275c80b21f6c9dc14e0a69a3287ab308005a68e4750007c41"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/styles-upon-styles.pw.toml"
-hash = "ef56d8e22f662a85343130dd73b3cb27f8586d981a87f6b42833ad9320b5a24b"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/tggs-fakemon-oddities.pw.toml"
-hash = "d8be5281ff7b793ef7a1185d13113681761116b586ba28245d762c552e78c5fd"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/thatbois-megamon.pw.toml"
-hash = "e72c0dee791f4907aab3018e8636f5cf0659ba21e20fcbfe67d02a81f3a680bd"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/triple-bakalutions.pw.toml"
-hash = "037724a2fde6a3268f28dfbb30712efd46022a838eb33a233d96410ed267c485"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/vivillon-pride-patterns.pw.toml"
-hash = "ae9b60eebd3c2729582cd394e954ac6073f4ed91844c9001138701e7d8adec44"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/xadoks-megas.pw.toml"
-hash = "a2d1bdba1a505ff2565e7909f8fac57502089aa459b285a6c00dd90da9b1a9d4"
-metafile = true
-
-[[files]]
-file = "global_packs/required_resources/yuhans-mega-collection-flygon-and-sylveon.pw.toml"
-hash = "058637c5eed9eead76e214f8a39a65f324d0595f2d9674acbbd957a68d8886ee"
-metafile = true
+file = "global_packs/required_resources/msd_repolished_extras.zip"
+hash = "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85"
 
 [[files]]
 file = "keybind_bundles.json"
@@ -2494,6 +2428,230 @@ preserve = true
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
+
+[[files]]
+file = "mods/ATM x MSD [v3.7.0].jar"
+hash = "011b78f4e250f170eefc413c39f8e506d88afc5e0542913916158ca1959faadc"
+
+[[files]]
+file = "mods/Astolfo's Mons.jar"
+hash = "5779174c620d422e700fb5282c788527638947d84ce24ade341a581a3a51f3f2"
+
+[[files]]
+file = "mods/AutoPatched_SpaceHeater.jar"
+hash = "ed898437c70bd374450d16a124809b2b938d08b0901c895429b1a90061b29361"
+
+[[files]]
+file = "mods/Ceruledge Knight v2.0.jar"
+hash = "07650e803e3e54ee8edf19567b0851dfba8af73bb055f6065a18b582d5e61416"
+
+[[files]]
+file = "mods/Cobbled_Beasts.jar"
+hash = "5c12b26a8141635d9cdc545d7bfdd50ed3338b1f8c388d0ee5e0a7e65e58eb14"
+
+[[files]]
+file = "mods/Cobbled_Variants_1.4.6.jar"
+hash = "dc0079ec78ac16c5259f39442335c45ef2298a153647c826a7a401dd747f87ba"
+
+[[files]]
+file = "mods/Cobblemon Champions Addition [v2.1.0]-ZA.jar"
+hash = "da5128c4e2bf3ce61ea56ff0e919cc1ec63e5cb2b71cab37c4adeadab58a1e00"
+
+[[files]]
+file = "mods/Cobblemon Cosmetic Expansion.jar"
+hash = "7d915d787fb70c47e5ae206da6924489feb7c6eb869a66aa56ba6fcc46edb392"
+
+[[files]]
+file = "mods/Cobblemon Snack Alert v1.1.jar"
+hash = "be1c38db4989109988ae828fe1f3ff5885324900f9582d17e8aa53f7a552f7f9"
+
+[[files]]
+file = "mods/Cobblemon Sniffer Archaeology v1.1.jar"
+hash = "048dc34647d14d8303641fea615a94cd0f9bd390ce8dfba34c7a627a143ed889"
+
+[[files]]
+file = "mods/Cobblemon Sweets 1.7.1.jar"
+hash = "e315e830e7a7d6a95e1d02d316ae8cdb864ca445bba24f3c0404b5ec4fba98d7"
+
+[[files]]
+file = "mods/Cobblemon improvedmon v1.1.jar"
+hash = "cce04c77c0b4324df3c97eac43096449980572bc694ee255ad8b2b9b8a0136c0"
+
+[[files]]
+file = "mods/CobblemonFossilHybrids!.jar"
+hash = "0cafac53f61c69e25161dd5c179f7172a575e15afc02096e83dba144aeb9de5a"
+
+[[files]]
+file = "mods/CobblemonLootBuffs1.0.jar"
+hash = "31edb76a94c4f01fc3b096397d6cfcf433bb5c343a59ae832aa05c9f665a3f8a"
+
+[[files]]
+file = "mods/CobblemonModdedDrops.jar"
+hash = "769c75917b5b885ba1558848d8b8dad2b20965d8453e8619bddec5a88df92a84"
+
+[[files]]
+file = "mods/CobblemonMoreCosmetics Release v1.1.7-1.21.x.jar"
+hash = "d5349c631c438347d4b033e4be6110147d1b084dc967499b7a7b4c8fd22e02f3"
+
+[[files]]
+file = "mods/CobblemonRaidDenDesigns-0.5_RELEASE.jar"
+hash = "44e070ea16da57baff9412c17bd57a64b9efb7c93670819f7beda9d5b4ef0d8d"
+
+[[files]]
+file = "mods/Cobblemotion_v1.5.1.jar"
+hash = "f45f0027d11fcb7c1cb90c360b6198773523c073e754ebfdede6b6142fb0d6d6"
+
+[[files]]
+file = "mods/Complete Galar Fossilmon.jar"
+hash = "044a2bd8cbafeef4cbc9eaa1f95ece44961356d79718a86ab9954bf1fad2a5ba"
+
+[[files]]
+file = "mods/Cryptonia_v4.jar"
+hash = "9e649d4e8a6ee554b177964ba3585c3abdcc372275abe24cf7f1ec6b98999b91"
+
+[[files]]
+file = "mods/E19 Cobblemon Minimap Icons.jar"
+hash = "2d31f286e6cdcc399264782981383e6f56caef42bcc7f6b8834e1a983dbedc2e"
+
+[[files]]
+file = "mods/Extra Paradox Mons 1.7.jar"
+hash = "bb4d908290baf89b746f1e296b3d008c0f00167dfde814e7d9c166b0b40fc42f"
+
+[[files]]
+file = "mods/Fully Hisuian Starters 1.1.1.jar"
+hash = "85b6238d0611821c7747bbad827f5fe8ed9b657a2e9e1f322425dcf2cfa2787c"
+
+[[files]]
+file = "mods/Hanas-Cobblemon-Blahaj.v1.2.jar"
+hash = "eff36caea84c0e11612fb2944af844826db06551014878d7a56d150869756873"
+
+[[files]]
+file = "mods/Kobellian Form Wooper v.1 Hotfix Datapack.jar"
+hash = "5da552503c32d06a6cdbba282d6eb03b8393c456efbfdcbd8d399bf8bbd7c1a6"
+
+[[files]]
+file = "mods/Kobellian Form Wooper v.1 Hotfix Resourcepack.jar"
+hash = "df812f2d6ed6d96bba37c9b4afd72e47aa2f5f05630bdda14ef0802e27b46115"
+
+[[files]]
+file = "mods/Laser's Remodel Pack v1.0.jar"
+hash = "7789897e15d4ebc344b3070dd087c6cf0a58ecfeeab381b65fcbede6b0357456"
+
+[[files]]
+file = "mods/MoreFishingBaits1.2.jar"
+hash = "edc44443b6c44b6e008c251d5a380b82f289355c779e911138937a775ffb4cd0"
+
+[[files]]
+file = "mods/MoreRecipes 1.2.jar"
+hash = "1d28198c6a8a8c8e37cfc9f230213627b03368de2e6d193ae0f76f37ac5fcd76"
+
+[[files]]
+file = "mods/Northala datapack.jar"
+hash = "85a8d8320ec509c6a1efa839cf1755937e70c98f38931373876161f9e2106b1e"
+
+[[files]]
+file = "mods/POKEMON TOOLS.jar"
+hash = "2371943bb14fe4ee86a57735b91d87205cbeecba7159c561d3732c25188575db"
+
+[[files]]
+file = "mods/Pickle's_Fakemon 1.1.jar"
+hash = "3b62d5a1e7ee7b808f75b5142b7f5af609c13369050b741b01d9229b813642e7"
+
+[[files]]
+file = "mods/Pinkan.jar"
+hash = "f0ec711b42595fcd4a387cbaa43c780300060a10468a3c4a72aeb7067f4bb79b"
+
+[[files]]
+file = "mods/PokeCenter_PCs_1.1.jar"
+hash = "c3f8e8a8a7de9e0faa72043eebbebff0cab8ce838b56f4c4546d39b41acbd723"
+
+[[files]]
+file = "mods/PokeCostume v.3.3.jar"
+hash = "6ec49c776c6c6283d9cfb2f4ca730a68b5c6d283703fccb1abcc10033c21ba69"
+
+[[files]]
+file = "mods/PokePaintings Combined 1.1.jar"
+hash = "c598f4d8d3872857726b23a934d512f46979b461be00267f072b9e774f4703c8"
+
+[[files]]
+file = "mods/PokéGals [v1.0].jar"
+hash = "32e96f904611db88a68cd18d255b258ac762dbc04b97d07cf3b550fe052927ea"
+
+[[files]]
+file = "mods/RCT-Badges-CobblemonPokemonBadges-0.15+1.1.2.jar"
+hash = "5fcc366da8c0726ee828f9f26d8ea307322df67f16ef6e27581ce5fe744c16d1"
+
+[[files]]
+file = "mods/Seavls Bizarremon 1.2.0v.jar"
+hash = "22926c8641904c13f76c9881b5596a4082c45ed8380ad79b5c7d0a5a87e49232"
+
+[[files]]
+file = "mods/StylesUponStyles.v.1.5.jar"
+hash = "4693826b2945414d6c6e50a73a0b7e3dc4361e5cc6175d2d1347ed05d939c365"
+
+[[files]]
+file = "mods/SwapBallsReborn 1.2.jar"
+hash = "1413dbd7cb383d5e0e45b43d49d2f9ee0f3567ca62e80dad69db2ccdd569ec95"
+
+[[files]]
+file = "mods/Syn_Eevees_0.1.0.jar"
+hash = "73def9272cf9c473b9bf9da36e16c27d779cdbac42d4979aef6d88a32bae3658"
+
+[[files]]
+file = "mods/TGGs_Oddities.jar"
+hash = "6e11e5f1409f0f04ca7e9d991b8c1a16e0f9a165ff3096a24b0fad98a8f8cd76"
+
+[[files]]
+file = "mods/ThatBois Megamon - [1.0.2].jar"
+hash = "d29e095ea28bb8e9b3cc9d95396f512cd3a707ca44b6297732aa403bcad449cb"
+
+[[files]]
+file = "mods/Triple Bakalutions - 1.1.1.jar"
+hash = "2dd0393b94a342bd41d20040ba854f7143c58636b417b0553759887023ce2de8"
+
+[[files]]
+file = "mods/Vivillon Pride Patterns v2.0.jar"
+hash = "f82ed66d492f278b1b64f06837cbf579259c12d9d5c53ba2d879cecfb8ea667f"
+
+[[files]]
+file = "mods/Xadok's Megas.jar"
+hash = "fe0523ee2f1f71db5c2ed2e20258d6b403e636d781c4854e357ac902da02e52e"
+
+[[files]]
+file = "mods/YuhanCollection2.2.jar"
+hash = "84767c9f984b50afaa94896dd56c107a4ded6e6fa56e469e73253ba6b6988a54"
+
+[[files]]
+file = "mods/[4.2.1] Flower Expansion.jar"
+hash = "3104a4bc3d3e9083e840cd4fd99008d458aa19227d62dada649e61e3b2098d2f"
+
+[[files]]
+file = "mods/[RELEASE] Cottagemon Addon.jar"
+hash = "d74cbb30e257f1121b799ff61a79aa70edac17097150403553f4c2b4908433f4"
+
+[[files]]
+file = "mods/[V.1.4.1] Cobblemon Stellar Blue.jar"
+hash = "4c1b515f7b78226965d97179f9ca01860b9669db2c8a27d7f5f80ded1f9cb8af"
+
+[[files]]
+file = "mods/[v 1.01] Pokemon Sunset Orange.jar"
+hash = "4c033e71b792c5d69dd8a6146ab6abba7bcaa42b5a8751e56147d5e83f15670d"
+
+[[files]]
+file = "mods/[v.2.02] Pokemon Grow and Gather Reborn.jar"
+hash = "7982393caa580b4efc2c699f6c70169c2d6604933dad3d72108cfb8421ac9026"
+
+[[files]]
+file = "mods/[v1.15] Storybook Hybrids.jar"
+hash = "582e071de06f573bdc7805ca2436cbbf33e7f7373ee5f1f32d1d847960e8146e"
+
+[[files]]
+file = "mods/[v1.37] Jet's Biome Besties.jar"
+hash = "d16fc6deedfa131917f05413f8a59cdd810926d6d2a74fdd71c906e1fb017d9f"
+
+[[files]]
+file = "mods/a-0.5.jar"
+hash = "ff8fa3c12214c666a083446eabbe90fa6e10b8e7ff263a33a9dfed6242118110"
 
 [[files]]
 file = "mods/ability-upgrade-cobblemon.pw.toml"
@@ -2547,7 +2705,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "cdbcdc943517ea7806e0ebe56f582d5b395d6d8fd294abe6cf8c28c12dd28ffd"
+hash = "741c0856c461e745d7d9d691e0e246b51f5728bd0b471543b5ac58df09c9dd7a"
 metafile = true
 
 [[files]]
@@ -2597,7 +2755,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
+hash = "f4ed8dbabc400434daa13b37041055261f3a74af387e4aea8ba8ca12ef142b4c"
 metafile = true
 
 [[files]]
@@ -2614,6 +2772,10 @@ metafile = true
 file = "mods/berry-pouch.pw.toml"
 hash = "bb728d408e8be5bb10410622c34ed2fc0681b2d9f9dbe5dacee3d30b9369d95b"
 metafile = true
+
+[[files]]
+file = "mods/berrymashing.jar"
+hash = "2d05ca8aad92905a59f3f82d8e495608b440f096831d7228ba2fed1777403b66"
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
@@ -2634,6 +2796,10 @@ metafile = true
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
+
+[[files]]
+file = "mods/blahaj pack.jar"
+hash = "6bf72ed2237e4b9cd358f665f8439282fae5f103a2de0fbbb910761b71643a6b"
 
 [[files]]
 file = "mods/bloos-gacha-machine.pw.toml"
@@ -2751,8 +2917,13 @@ hash = "68278672793733c4c6fb7fb5b5905a6e57f43dbef65a090d43d503b0b67961d9"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-alphas.pw.toml"
-hash = "cc452331b926963b93f10034d338c77a42531666d3ca2df747d15876608dd378"
+file = "mods/cobblemon-alatias-fakemon-pack.pw.toml"
+hash = "a88bc4f42325323a40b61b16a6845355a7227a4520d1fcb7e3d5655dcda07517"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-alpha-project.pw.toml"
+hash = "94e27b8f721af13341e9787d578073b2f23a6f86e69cff4e5a12fff15016a9e5"
 metafile = true
 
 [[files]]
@@ -2897,7 +3068,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-unchained.pw.toml"
-hash = "02abffe0573f313139ecb089e243fc2c2c1cb39008a382192bd16809c8ab36d1"
+hash = "fe6b9e698f7843200ee179bf69f7845f9e771085422f0171c7c816df1b697b51"
 metafile = true
 
 [[files]]
@@ -2921,9 +3092,46 @@ hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon_kittycats1.1.jar"
+hash = "f0a60b790d04210b1bdf7b768bc02417a087423437bcc4b67b6f8429e165b314"
+
+[[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "58825929d4134645ade28edaeeb59348399c2d3a2c0f4015394c0e9933014485"
+metafile = true
+
+[[files]]
 file = "mods/cobblemonoptimizer.pw.toml"
 hash = "8a0c5e1902f6c3490e5d8fae8ff5f68011c43906395f4fbed5dd8756a74f3c13"
 metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens-dynamax.jar"
+hash = "76ed1f63ad25dd95dd9a99bd97e968faed7551da8c87c264ac9f7a8c6043bbec"
+
+[[files]]
+file = "mods/cobblemonraiddens-legendaries.jar"
+hash = "911ed672a6ea6c28305eac11629d884ea2019f7ce88e53c9407d53e0b35d22cc"
+
+[[files]]
+file = "mods/cobblemonraiddens-mega_msd.jar"
+hash = "07dbbb54b0f331084f70dd1d0394d2df860fc7526de4fc7662c989cf45b0e977"
+
+[[files]]
+file = "mods/cobblemonraiddens-natdex.jar"
+hash = "d55ce1fe32735dc9af4238a6cc257afd94c48c54fef89f56f1201fac925d23eb"
+
+[[files]]
+file = "mods/cobblemonraiddens-tera.jar"
+hash = "fe8a101090e45720698f14bec058ac4f7fd6bc876bca955eeb0532a56cf72161"
+
+[[files]]
+file = "mods/cobblemonraiddens-ub+paradox.jar"
+hash = "440eccfef25ae02ea09b0f1832241a56dc355e607f0691dcda1f85b1be73807d"
+
+[[files]]
+file = "mods/cobblemonraiddens-za-megas.jar"
+hash = "9ad7586dabed7a6a6d4e639c50a682e3011ebb07ae6c56d34bc801068ccf9a08"
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
@@ -2937,7 +3145,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblesafari.pw.toml"
-hash = "73c6885e4c7c36ae5163353f4467a8342dda7066823fde1e2ebcd672e86085fc"
+hash = "ec7ca9c03685375928f6e9e49c585da6b80120732d63272dc4540f30d4bb8969"
 metafile = true
 
 [[files]]
@@ -2958,6 +3166,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "b360c0438bf09e6cec799babe7db640e64e54c778f9da65e10996e24c3f8e065"
 metafile = true
 
 [[files]]
@@ -3047,7 +3260,7 @@ metafile = true
 
 [[files]]
 file = "mods/elemental-wizards-rpg.pw.toml"
-hash = "2018f807536ce622bd392b87fe75e902dab706f2a9d4d934623b162e07324b4d"
+hash = "61086e61aa5ff7968b71c1e49f367672818c9b98eea2ef44f149ed07d4eb5327"
 metafile = true
 
 [[files]]
@@ -3146,6 +3359,10 @@ hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
+file = "mods/fanmade form funfair v.1.4.0.jar"
+hash = "806862ef51ce116aef49b7c6cc667ba67e69c4506e7a14dc619c605834a19561"
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
@@ -3172,12 +3389,17 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "a0b3083a1577130adb77867a6f8b6cf0c5bdd3c0c8b2995fa8b5fca323ed09a0"
+hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "7ce307217d2e79043759700b1046b2986d51953d0d4cb042b98d9dffcf570c2f"
+hash = "9ed1eaf83cba3c914765631afb2dbea9291ca4314d092304ab23826b1a727c0b"
 metafile = true
 
 [[files]]
@@ -3196,18 +3418,13 @@ hash = "e56f8bbfe55aa00d09e341913cba870fb6218fba8df4a136f2443705982bce1f"
 metafile = true
 
 [[files]]
-file = "mods/globalpacks.pw.toml"
-hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
-metafile = true
-
-[[files]]
 file = "mods/glowing-emissive-ores-definitive-edition.pw.toml"
-hash = "2af11271c467404e9a8e5ea627c13c37c40527ea0833f04892ff2862fd7230e4"
+hash = "fd65ffd8b1102e4d18ec0950a504e0914df16af977415cbc7ee8515aea1832f7"
 metafile = true
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
-hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
+hash = "6b600644bc76fcb7e45921d5d3dc55605fc155add265c04ed79a1545ba9109d0"
 metafile = true
 
 [[files]]
@@ -3218,6 +3435,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "3843e6f8c47a3a62759c64a92d33e1527674581f7f7739378b3503ac4864dfc7"
+metafile = true
+
+[[files]]
+file = "mods/hide-your-server-ip.pw.toml"
+hash = "3b7ab163397f506ec80d0ab31c0387d1079a73783b3e5fa95502474415595977"
 metafile = true
 
 [[files]]
@@ -3326,13 +3548,23 @@ hash = "6d211d9120c2f1938908f8163b75105d1540ee7ea5e11538728653883e021f30"
 metafile = true
 
 [[files]]
+file = "mods/lasers-additions.pw.toml"
+hash = "e9542d5261385bf80d06f1b9ddac1f459a8783a8c44ed67a18f91a1d2941625b"
+metafile = true
+
+[[files]]
 file = "mods/lasers-fakemon-pack.pw.toml"
-hash = "42bf42101702c3c792ba94e98e4b51561acae351e80145db7d6caac709ccff08"
+hash = "dd80b0c2621786ee1ccd12b60ca7ef0d07c04d42482de4f1b348bb994471d296"
 metafile = true
 
 [[files]]
 file = "mods/lasers-foolmon-pack.pw.toml"
 hash = "445647d5aa03d69cbe69be8b15fabcda814c57ac5b8d6dfbd95c140d52868e49"
+metafile = true
+
+[[files]]
+file = "mods/legendary-monuments.pw.toml"
+hash = "c84506985957c33b3d130a94f2b6d84813e5193a831549ea96b86343dafa6221"
 metafile = true
 
 [[files]]
@@ -3351,6 +3583,16 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f0c66fc8c3d9dbea2704b007e79125377d50484ff3a40c280b48707659209045"
+metafile = true
+
+[[files]]
+file = "mods/lively-mons.pw.toml"
+hash = "3161257a98ecad8424ad6abb94432aaf943937cb759cf33bbab3c31c51a0e12f"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
 metafile = true
@@ -3359,6 +3601,10 @@ metafile = true
 file = "mods/lootr.pw.toml"
 hash = "a0a2036a901c1d61589768d62bc92d0cd630a40e9dfe92f45aefdc835c0c808d"
 metafile = true
+
+[[files]]
+file = "mods/lots_o_spheal_a_surfers_dream.jar"
+hash = "86505da29951fb26c83196451ab0e0fe395193f5283370a7d391b97b1fa33822"
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
@@ -3407,7 +3653,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-rpg-library.pw.toml"
-hash = "956565871eb1f148c5d342aba1823f8de62ef21ad175b44f07bce696548e8a68"
+hash = "db57f8afe58c206e7516e147a572393ef283cf06056bda9f07102e27d47ac2e7"
 metafile = true
 
 [[files]]
@@ -3421,9 +3667,8 @@ hash = "5625d093ef7cbb912dd5e471b889b886339740869e35186ae6310f80d82532b2"
 metafile = true
 
 [[files]]
-file = "mods/multi-village-selector.pw.toml"
-hash = "b7974ea036e9f025e922d631d8cb0368d68f0d3b5f981cf8b3ffc2e96ac5df5c"
-metafile = true
+file = "mods/msdextramegas_companionpack.jar"
+hash = "7944368deb3dc0fcdaeb23474a762d9e80e8cb736a49b43058171d0f1546794d"
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
@@ -3438,6 +3683,11 @@ metafile = true
 [[files]]
 file = "mods/navas-zamega.pw.toml"
 hash = "1bf20cef5da92390afb3b535347ff7b2863a167c649e84c313aa9e606b0abeff"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "33ad46116b505111571c4058f5e804a265d7f93c08c1b16a47ac050e65a835f7"
 metafile = true
 
 [[files]]
@@ -3501,8 +3751,13 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/packforge.pw.toml"
+hash = "d5b6c437e5ea9058c96e0584131cb52eba47fb890c4812e61168990e08238254"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "06f534cada33aa1daf5a6233e794d61fd84ff942c703ccff4aa1a87a5fd553e9"
+hash = "a1b6df801195f130a65fca1be2bd2d20e50ec27fcada267f6c18f10a258eea05"
 metafile = true
 
 [[files]]
@@ -3529,6 +3784,15 @@ metafile = true
 file = "mods/pokeblocks-unofficial.pw.toml"
 hash = "135555feb7e2973c7acb2ccc23bca899624de8f547cf6267711ddb019bb14b0a"
 metafile = true
+
+[[files]]
+file = "mods/poketwo.pw.toml"
+hash = "23a55715ca16f91166f621a385547163c1f574dc5f594581f5e169a1f89c9f37"
+metafile = true
+
+[[files]]
+file = "mods/pokopia-1.1.jar"
+hash = "6d82fedf6384ea157671f57ccfee29357266124be06c046f28a414625ee80e3f"
 
 [[files]]
 file = "mods/polymorph.pw.toml"
@@ -3636,6 +3900,11 @@ hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
+metafile = true
+
+[[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "307a39080394cbe930be57e67fb8dae37601e8f0842da10da10977d261dac07d"
 metafile = true
@@ -3652,7 +3921,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+hash = "9cff55b64b62831e1be78c469b6758829f9d15016c6b12ea2d5103c3263f510e"
 metafile = true
 
 [[files]]
@@ -3721,6 +3990,11 @@ hash = "8433629a518a65f2ccbda5110a87c3b3bdd16b22a8485a84876375841a763896"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "86cc4ced1520d24ca8ede0a458de441f6331c646179d3795a530fb6d4559363b"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -3732,7 +4006,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "805c7b44181e5826bdbf4fcc21b14d93cd8ff656747356d325a5cb81a8fa3de5"
+hash = "dca0f7bb1835c26fe31b7942b99783d8340bd52a23d9fecef7a2c6ceb89fae5d"
 metafile = true
 
 [[files]]
@@ -3792,7 +4066,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "b7549da2e8e2a3e91b49a7154f7d248c5fd46fed051dbdc5561439fe83eb3e97"
+hash = "3f85dddbfdc9c87ffecc6633df88c31bbcadcd1a5ff4adc03e1b14de06cb97c0"
 metafile = true
 
 [[files]]
@@ -3801,8 +4075,13 @@ hash = "a398ee5619d5359201803b329a2fede00e9383b62407de728aec237873a010c3"
 metafile = true
 
 [[files]]
+file = "mods/wits.pw.toml"
+hash = "31ebe9b810c064135028d6dc4c15ef0d609b712bc47ba7e58b86fc9f875888af"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
-hash = "a77ed070f19a8a6bd2af758e6c3af56eb81828f57622b82c6917e99e80a20312"
+hash = "c3080aaa8d8dd3f62b7c306f61ed53cc1a43cb03a1b069e2008c67657467d5ca"
 metafile = true
 
 [[files]]
@@ -3813,6 +4092,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
@@ -3842,8 +4126,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6db098b30e2f33d80c8fd41eca8bdc97c034f612316eb0eb795f52b2d89626a9"
+hash = "678aab19fb6eb779d23924bd1d2173c5f57087a2e41c4a43827d5d823d945813"
 preserve = true
+
+[[files]]
+file = "resourcepacks/Cobblemon Accessories.zip"
+hash = "3124cc8bd8e2949ee2fba794d2c886294a0af0cec365b7ff009a89d6d670d35d"
+
+[[files]]
+file = "resourcepacks/Mega Showdown Repolished.zip"
+hash = "12209ce775a136d657febe4ae06d6106bd1bdf6d79cdf3c92819fcd797923e00"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
@@ -3869,6 +4161,14 @@ metafile = true
 file = "resourcepacks/fusion-connected-glass.pw.toml"
 hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
+
+[[files]]
+file = "resourcepacks/iB - 3D Cobblenav.zip"
+hash = "fbfaae8bedeb5fafad662994ab813ed8f855292c96a8ebeacbc32261a4948a3d"
+
+[[files]]
+file = "resourcepacks/msd_repolished_extras.zip"
+hash = "4c155b2ad75d040219e81fa30f201103733fb7da93e6ffce077008e2ad97a260"
 
 [[files]]
 file = "resourcepacks/mt-ct-d-a.pw.toml"

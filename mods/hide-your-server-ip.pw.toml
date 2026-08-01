@@ -1,0 +1,13 @@
+name = "Hide Your Server IP"
+filename = "hysi-mc1.21.1-neoforge-1.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LflkXd8n/versions/Y7rZKRyS/hysi-mc1.21.1-neoforge-1.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "dea49e7a9611dc717fc8bc5846febb45277b663695c298d790a08ec49c381ad9396f32e45fc23220dbdecaeb68529920678c7e7adcb1d2df1da1d842fe918d06"
+
+[update]
+[update.modrinth]
+mod-id = "LflkXd8n"
+version = "Y7rZKRyS"
