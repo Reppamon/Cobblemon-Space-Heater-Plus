@@ -1631,9 +1631,12 @@ hash = "d6279d4d2faa9ef7818ea22946c2fd25166ea18992d5f8595908a089f590a15c"
 preserve = true
 
 [[files]]
+file = "config/simpletms/custom/custom_moves.json"
+hash = "607864b9df408c4f230cf3ecb7ee9d995c6ad8eaec8fd275b9d3d1b99ffd65b8"
+
+[[files]]
 file = "config/simpletms/main.json"
-hash = "24f8689336c04db23312f4019adfdb3587b7e3d4403b695adbc6653789db9250"
-preserve = true
+hash = "d67cef587518c874b1cabdae2bfa1073601e56965d386aade5742b20cba77d1a"
 
 [[files]]
 file = "config/simpletms/moves/default_tm_moves.json"
