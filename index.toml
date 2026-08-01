@@ -3603,6 +3603,10 @@ hash = "a0a2036a901c1d61589768d62bc92d0cd630a40e9dfe92f45aefdc835c0c808d"
 metafile = true
 
 [[files]]
+file = "mods/lost_lore-neoforge-3.0.0.jar"
+hash = "85caafb9d04975821c3847d3c9aeb2e5bbcec53ff4e7ac9fe0947a5ccbd64b8a"
+
+[[files]]
 file = "mods/lots_o_spheal_a_surfers_dream.jar"
 hash = "86505da29951fb26c83196451ab0e0fe395193f5283370a7d391b97b1fa33822"
 
@@ -3783,11 +3787,6 @@ metafile = true
 [[files]]
 file = "mods/pokeblocks-unofficial.pw.toml"
 hash = "135555feb7e2973c7acb2ccc23bca899624de8f547cf6267711ddb019bb14b0a"
-metafile = true
-
-[[files]]
-file = "mods/poketwo.pw.toml"
-hash = "23a55715ca16f91166f621a385547163c1f574dc5f594581f5e169a1f89c9f37"
 metafile = true
 
 [[files]]
