@@ -1497,23 +1497,21 @@ preserve = true
 
 [[files]]
 file = "config/packed_packs/config.json"
-hash = "44ec6327d2d7af17e024520dd13aa9b4bcd3cf47e291dfc151c5aa618965b5cd"
+hash = "593ace00f677d41f166eedb95561ffb65c009274faaee7eaa230f27b6e0ef7d4"
 preserve = true
 
 [[files]]
 file = "config/packed_packs/config.meta.json"
-hash = "bf69102f3f5c232ae8fc3bcbfc7211e2c7fea3608e34d4f589bf50f85f1bb868"
-preserve = true
+hash = "a4a96ba5de34f674dab0a460ffd6c57c760c65ae72b5db94aebe53f9a44d38b3"
 
 [[files]]
 file = "config/packed_packs/preferences.properties"
-hash = "e4a4000738d05482f7dfd0adccb8665dee296b98c0eb6ba9b07da7d8dd7229cf"
+hash = "e5f2d5f8e76442697fd60c19972adfed2bd0531006ae52eb0a2ebd8103b465e5"
 preserve = true
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Server Required Resource Packs.profile.json"
-hash = "ae9dba72a3b5ab57fb476521f07f884a2bc33362d93bcee31d64fea57f585d4d"
-preserve = true
+hash = "694758c58be121032eccb5381ef8ebd77e1d549ce0b3451eeee931fe3b568333"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -2442,7 +2440,7 @@ hash = "5779174c620d422e700fb5282c788527638947d84ce24ade341a581a3a51f3f2"
 
 [[files]]
 file = "mods/AutoPatched_SpaceHeater.jar"
-hash = "ed898437c70bd374450d16a124809b2b938d08b0901c895429b1a90061b29361"
+hash = "8c3ec90146f6ba61b2ab22bdbd02fece99cf0fc8ee46a71ad7f2d86111047518"
 
 [[files]]
 file = "mods/Ceruledge Knight v2.0.jar"
@@ -2511,10 +2509,6 @@ hash = "044a2bd8cbafeef4cbc9eaa1f95ece44961356d79718a86ab9954bf1fad2a5ba"
 [[files]]
 file = "mods/Cryptonia_v4.jar"
 hash = "9e649d4e8a6ee554b177964ba3585c3abdcc372275abe24cf7f1ec6b98999b91"
-
-[[files]]
-file = "mods/E19 Cobblemon Minimap Icons.jar"
-hash = "2d31f286e6cdcc399264782981383e6f56caef42bcc7f6b8834e1a983dbedc2e"
 
 [[files]]
 file = "mods/Extra Paradox Mons 1.7.jar"
@@ -2589,12 +2583,12 @@ file = "mods/Seavls Bizarremon 1.2.0v.jar"
 hash = "22926c8641904c13f76c9881b5596a4082c45ed8380ad79b5c7d0a5a87e49232"
 
 [[files]]
-file = "mods/StylesUponStyles.v.1.5.jar"
-hash = "4693826b2945414d6c6e50a73a0b7e3dc4361e5cc6175d2d1347ed05d939c365"
+file = "mods/Spaceworldmons-3.1-1.21.1.jar"
+hash = "fb2320e74744f839fb89a31d03bab231564b80285bbe3c23d32dfa5c293e6faa"
 
 [[files]]
-file = "mods/SwapBallsReborn 1.2.jar"
-hash = "1413dbd7cb383d5e0e45b43d49d2f9ee0f3567ca62e80dad69db2ccdd569ec95"
+file = "mods/StylesUponStyles.v.1.5.jar"
+hash = "4693826b2945414d6c6e50a73a0b7e3dc4361e5cc6175d2d1347ed05d939c365"
 
 [[files]]
 file = "mods/Syn_Eevees_0.1.0.jar"
@@ -2603,10 +2597,6 @@ hash = "73def9272cf9c473b9bf9da36e16c27d779cdbac42d4979aef6d88a32bae3658"
 [[files]]
 file = "mods/TGGs_Oddities.jar"
 hash = "6e11e5f1409f0f04ca7e9d991b8c1a16e0f9a165ff3096a24b0fad98a8f8cd76"
-
-[[files]]
-file = "mods/ThatBois Megamon - [1.0.2].jar"
-hash = "d29e095ea28bb8e9b3cc9d95396f512cd3a707ca44b6297732aa403bcad449cb"
 
 [[files]]
 file = "mods/Triple Bakalutions - 1.1.1.jar"
@@ -3551,9 +3541,8 @@ hash = "6d211d9120c2f1938908f8163b75105d1540ee7ea5e11538728653883e021f30"
 metafile = true
 
 [[files]]
-file = "mods/lasers-additions.pw.toml"
-hash = "e9542d5261385bf80d06f1b9ddac1f459a8783a8c44ed67a18f91a1d2941625b"
-metafile = true
+file = "mods/lasers-additions-1.2.jar"
+hash = "9c2855851300e97d97045cb1b44708a923351a85a48d6e3f156d5ddd5f6c1945"
 
 [[files]]
 file = "mods/lasers-fakemon-pack.pw.toml"
@@ -3728,6 +3717,11 @@ hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "379d6d1ad9e1f12828d9f7987397e97e9d2e3030a897a8725b7b17e573721bea"
+metafile = true
+
+[[files]]
 file = "mods/only-hammers.pw.toml"
 hash = "9f1d3f5d748f71931867a5dbe3484a1a917b824d9326c66560383cb1f0e7f3cf"
 metafile = true
@@ -3887,6 +3881,11 @@ hash = "bcae679765144e82a8b181be8173bc088ca431e1573ecb170b9898430a4b67cd"
 metafile = true
 
 [[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/shield-api.pw.toml"
 hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
@@ -3944,11 +3943,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "8c6a1b99d6b1987fff088ee0fe08303789dc2bf71739c392de8c3ffa13ff0b1b"
-metafile = true
-
-[[files]]
-file = "mods/spaceworldmons-cobblemon.pw.toml"
-hash = "652c6a2dac04ed004e8cd8f69552b16b42fb5112390d4f078e5e3ae9ffd6dae1"
 metafile = true
 
 [[files]]
@@ -4129,6 +4123,10 @@ preserve = true
 [[files]]
 file = "resourcepacks/Cobblemon Accessories.zip"
 hash = "3124cc8bd8e2949ee2fba794d2c886294a0af0cec365b7ff009a89d6d670d35d"
+
+[[files]]
+file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
+hash = "8732ecb1ee0b8cceda4ad973ffcf53e0c6689f503652320107d2569c0cd7f9ba"
 
 [[files]]
 file = "resourcepacks/Mega Showdown Repolished.zip"

@@ -1,12 +1,12 @@
 {
   "devMode": false,
-  "showActionBar": false,
+  "showActionBar": true,
   "hideIncompatible": false,
   "sort": "VANILLA",
   "resourcepacks": {
-    "applyOnClose": true,
+    "applyOnClose": false,
     "replaceOriginal": true,
-    "hideIncompatibleWarnings": false,
+    "hideIncompatibleWarnings": true,
     "additionalFolders": [],
     "rememberLastViewedProfile": false,
     "profileOrder": [

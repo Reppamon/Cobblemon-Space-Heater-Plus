@@ -1,6 +1,7 @@
 {
   "resourcepacks": {
-    "aliases": {}
+    "aliases": {},
+    "defaultProfile": "Server Required Resource Packs"
   },
   "datapacks": {
     "aliases": {}
