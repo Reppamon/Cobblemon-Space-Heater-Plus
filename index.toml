@@ -3882,7 +3882,7 @@ metafile = true
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
-hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+hash = "a4011db2fbec3d7b367adda488aa4c07342e104ed1e76a6784b2aa0f3e973e0a"
 metafile = true
 
 [[files]]
