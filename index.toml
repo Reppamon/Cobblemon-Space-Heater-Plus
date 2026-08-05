@@ -612,7 +612,7 @@ preserve = true
 
 [[files]]
 file = "config/authme.jsonc"
-hash = "7be21b7617f2469822bee8c1d8060b89df32e05351c4599dedcb8de8d223d5ba"
+hash = "44a8d72ffb2615e7d18794596d5378712c192d32ea8441169d179fa2364a421d"
 preserve = true
 
 [[files]]
@@ -2519,6 +2519,10 @@ file = "mods/Fully Hisuian Starters 1.1.1.jar"
 hash = "85b6238d0611821c7747bbad827f5fe8ed9b657a2e9e1f322425dcf2cfa2787c"
 
 [[files]]
+file = "mods/Gacha Variants.jar"
+hash = "6ae7ca1a20728a9b9f07082c633ce04d7e1c11c05a7ab3818396adfbe5a4591d"
+
+[[files]]
 file = "mods/Hanas-Cobblemon-Blahaj.v1.2.jar"
 hash = "eff36caea84c0e11612fb2944af844826db06551014878d7a56d150869756873"
 
@@ -4084,6 +4088,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
+
+[[files]]
+file = "mods/xyndras_crates-1.0.1.jar"
+hash = "ef2f362b9e1700e7473860181a48951652fae3b480ef88346e29aaf7df0ec3af"
 
 [[files]]
 file = "mods/yacl.pw.toml"
