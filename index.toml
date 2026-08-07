@@ -2539,6 +2539,10 @@ file = "mods/Laser's Remodel Pack v1.0.jar"
 hash = "7789897e15d4ebc344b3070dd087c6cf0a58ecfeeab381b65fcbede6b0357456"
 
 [[files]]
+file = "mods/MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
+hash = "0ba72d91b8f701bd7908934d120a4ab15f0ecd3d428ad1cf4792c89050c54f17"
+
+[[files]]
 file = "mods/MoreFishingBaits1.2.jar"
 hash = "edc44443b6c44b6e008c251d5a380b82f289355c779e911138937a775ffb4cd0"
 
@@ -2827,6 +2831,10 @@ metafile = true
 file = "mods/botany-potsgrowableores-compat.pw.toml"
 hash = "87286fd207c4bdbeb93b4899c0f4d934ecd23360cbf0fa762921a83cdc0b2bb9"
 metafile = true
+
+[[files]]
+file = "mods/botanytrees-neoforge-1.21.1-21.1.7.jar"
+hash = "72060638703da61e868d5d52674c580a58ed68cfc80a99697d360f8ed0092678"
 
 [[files]]
 file = "mods/building-wands.pw.toml"
