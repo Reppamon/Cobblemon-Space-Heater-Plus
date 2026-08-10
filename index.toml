@@ -2511,20 +2511,8 @@ file = "mods/Cryptonia_v4.jar"
 hash = "9e649d4e8a6ee554b177964ba3585c3abdcc372275abe24cf7f1ec6b98999b91"
 
 [[files]]
-file = "mods/EdivadLib-1.21-3.0.0.jar"
-hash = "daf3201364c5e9dbc7c0d99a9617cd82c40f203e489a4701b228daa765038d92"
-
-[[files]]
 file = "mods/Extra Paradox Mons 1.7.jar"
 hash = "bb4d908290baf89b746f1e296b3d008c0f00167dfde814e7d9c166b0b40fc42f"
-
-[[files]]
-file = "mods/ExtraDisks-1.21.1-4.0.15.jar"
-hash = "0124461b4445c1f478566e80b92f7d5546cb38430a415e1e6a001d75f54bd019"
-
-[[files]]
-file = "mods/ExtraStorage-1.21.1-5.0.10.jar"
-hash = "5cec2b492e42ff740f54a73b47e07ea797e5eea5e7b4048225e034e43f81ed51"
 
 [[files]]
 file = "mods/Fully Hisuian Starters 1.1.1.jar"
@@ -2549,10 +2537,6 @@ hash = "df812f2d6ed6d96bba37c9b4afd72e47aa2f5f05630bdda14ef0802e27b46115"
 [[files]]
 file = "mods/Laser's Remodel Pack v1.0.jar"
 hash = "7789897e15d4ebc344b3070dd087c6cf0a58ecfeeab381b65fcbede6b0357456"
-
-[[files]]
-file = "mods/MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
-hash = "0ba72d91b8f701bd7908934d120a4ab15f0ecd3d428ad1cf4792c89050c54f17"
 
 [[files]]
 file = "mods/MoreFishingBaits1.2.jar"
@@ -2845,8 +2829,9 @@ hash = "87286fd207c4bdbeb93b4899c0f4d934ecd23360cbf0fa762921a83cdc0b2bb9"
 metafile = true
 
 [[files]]
-file = "mods/botanytrees-neoforge-1.21.1-21.1.7.jar"
-hash = "72060638703da61e868d5d52674c580a58ed68cfc80a99697d360f8ed0092678"
+file = "mods/botany-trees.pw.toml"
+hash = "75ee5511e4bb37c0f13486e2a550bea43dcf630f38201b4c61a1ae284cbccf94"
+metafile = true
 
 [[files]]
 file = "mods/building-wands.pw.toml"
@@ -2859,8 +2844,9 @@ hash = "a7e46ae0871bb75452fcd2044a7a320beb08b2a691518111c9e4906a9c6fde39"
 metafile = true
 
 [[files]]
-file = "mods/cabletiers-neoforge-1.21.1-0.6.13.jar"
-hash = "910e4b174387bbff323b4cfe8468f0fc4179b42d080c55e47b3a72a272956109"
+file = "mods/cable-tiers.pw.toml"
+hash = "2b9d52eece5b6e2fa4308fcb23e121fe8bf23ab17b3867c21b48586e8f1577af"
+metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -3280,6 +3266,11 @@ hash = "4f70e3a81a737468bc9de58f12ec91b31d9062395a83ec8e5d9fd9c1ddeeb306"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
+metafile = true
+
+[[files]]
 file = "mods/elemental-wizards-rpg.pw.toml"
 hash = "61086e61aa5ff7968b71c1e49f367672818c9b98eea2ef44f149ed07d4eb5327"
 metafile = true
@@ -3360,6 +3351,11 @@ hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "dbe30d148364164e29902e67d8f01bc31abfe82cdcdbe591f5fdbddd87d20bd8"
+metafile = true
+
+[[files]]
 file = "mods/extra-eeveelutions.pw.toml"
 hash = "7764ac9b49a0400de01347f01dd4cb91549dd403adad8c881cad4d300f5eeb90"
 metafile = true
@@ -3367,6 +3363,11 @@ metafile = true
 [[files]]
 file = "mods/extra-move-anims-cobblemon.pw.toml"
 hash = "9c3e7688ee3b53f2bfb390611a137b25619a71fc284c608f7e45a82342d966be"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "3e2431756f4544ca4f040d2f85d53433167a63eb606dfbeb8575548cc0b09e10"
 metafile = true
 
 [[files]]
@@ -3509,8 +3510,9 @@ hash = "2c48072573a48e80a6f052a2bdc8922eaed2edefc59c712b48dfb6ab9e5f94c5"
 metafile = true
 
 [[files]]
-file = "mods/interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar"
-hash = "82bada07469085c9eeaf1cbe65458d3ad09c6ef14d067c9df6dfd5d8e2e47719"
+file = "mods/interdimensional-wireless-transmitter.pw.toml"
+hash = "e62ee934b68b4c1269bef6fe4e0090418e203c1d8f8e1e1b586c195671095515"
+metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -3647,6 +3649,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "e0eb9856cfbcefd70a853efd4e5ab8deb6a3add9f97f927860ed19b8055f8b88"
 metafile = true
 
 [[files]]
@@ -3888,13 +3895,14 @@ hash = "0f465bf38b13f887dbde506c859c9b5439ee9151ae5f3a98078b9f6c3a2c89ad"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "dfbd1d91b723a8a4c15065ee9b9ce2e9996dd7d69f6299436a5ab1200211ae76"
 metafile = true
 
 [[files]]
-file = "mods/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar"
-hash = "c6f00a8dc5707726a6252aa57690d2b8d90fb350dd7f92817276efc16e8af186"
+file = "mods/refined-storage.pw.toml"
+hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
+metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
@@ -4072,8 +4080,9 @@ hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
-file = "mods/universalgrid-neoforge-1.21.1-0.3.2.jar"
-hash = "bfd4510c0fbd649fb7a6e440610cede38cd5e880ee22334afe5a5241fc0e8238"
+file = "mods/universal-grid.pw.toml"
+hash = "f1999d19103a4304c3411ff72ab611b14597c33fd4b8c624b1d2882b04ae71e4"
+metafile = true
 
 [[files]]
 file = "mods/veinminer-enchantment.pw.toml"
@@ -4126,8 +4135,9 @@ hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
-file = "mods/xyndras_crates-1.0.1.jar"
-hash = "ef2f362b9e1700e7473860181a48951652fae3b480ef88346e29aaf7df0ec3af"
+file = "mods/xyndras_crates.pw.toml"
+hash = "47397437a20181e78678ab835597b6cb762b9a08b7ae373d679dce56aadbdebb"
+metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"

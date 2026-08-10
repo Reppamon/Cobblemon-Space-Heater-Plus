@@ -1,0 +1,12 @@
+name = "Xyndra's Crates"
+side = "both"
+filename = "xyndras_crates-1.0.1.jar"
+
+[update.modrinth]
+mod-id = "yRNI1TAb"
+version = "hZiTr0nx"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/yRNI1TAb/versions/hZiTr0nx/xyndras_crates-1.0.1.jar"
+hash = "96013413c36aa6ee07d9a7ccf739c3b53e42ea1ff470d4099c3e002571717cf52ab02c0a604470850b0842b186e9ca848231663e2ff9332819b9e0fa36b93394"
