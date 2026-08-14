@@ -3171,11 +3171,6 @@ hash = "048deeed2d213d567b087797f5d0ad55a9a57e12d64b0af4818961f165f068ef"
 metafile = true
 
 [[files]]
-file = "mods/cobblesafari-+-raid-den-compat.pw.toml"
-hash = "af10d05954d0d385e09e00fcbb9267b0a171e6be61f4da9377904ebf51b1299a"
-metafile = true
-
-[[files]]
 file = "mods/cobblesafari.pw.toml"
 hash = "ec7ca9c03685375928f6e9e49c585da6b80120732d63272dc4540f30d4bb8969"
 metafile = true
@@ -3860,11 +3855,6 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
-file = "mods/nullpointer-fix-for-mio.pw.toml"
-hash = "65c94e38596ceb2d8fafec7907c9f843a5a7ef4526c0770b7385b4b53e19bad6"
-metafile = true
-
-[[files]]
 file = "mods/only-hammers.pw.toml"
 hash = "9f1d3f5d748f71931867a5dbe3484a1a917b824d9326c66560383cb1f0e7f3cf"
 metafile = true
@@ -3951,6 +3941,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "111b11e5eb69c1513ed914eb70d98a1cc6b9cdc0ec28677064431334a2e26ced"
 metafile = true
 
 [[files]]
