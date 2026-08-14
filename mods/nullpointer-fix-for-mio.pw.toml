@@ -1,0 +1,13 @@
+name = "NullPointer Fix for Mio"
+filename = "nullpointerfixformio-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BeeFA1yj/versions/VFqgVan2/nullpointerfixformio-1.21.x.jar"
+hash-format = "sha512"
+hash = "00a4026e004aa78e397fa3811986a5060bccce373be8463cb6b3dd5c1f2eb3a1c2ca28a12fafd3c1302ea4bf003f681745a27a8028599c278ffd382dfa90030b"
+
+[update]
+[update.modrinth]
+mod-id = "BeeFA1yj"
+version = "VFqgVan2"

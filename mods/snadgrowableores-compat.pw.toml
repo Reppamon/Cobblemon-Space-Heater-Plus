@@ -1,0 +1,13 @@
+name = "Snad:GrowableOres Compat"
+filename = "SnadGrowableOresCompat-1.0.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PdtBDY88/versions/oNBTwoWw/SnadGrowableOresCompat-1.0.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "05ce6ae4e797a2bcc9f650cc87d6d5400e7cd49d49b6194bc3dddcf6ffb8271e1ab0dc3d8f5b79c3c98029499b7b4e36c0a37f63e2bd8668a4bfafc2e2fd26d2"
+
+[update]
+[update.modrinth]
+mod-id = "PdtBDY88"
+version = "oNBTwoWw"

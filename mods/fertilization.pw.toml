@@ -1,0 +1,13 @@
+name = "Fertilization"
+filename = "fertilization-neoforge-1.21.1-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dJhpNOys/versions/fLkY4lsy/fertilization-neoforge-1.21.1-21.1.4.jar"
+hash-format = "sha512"
+hash = "af974aa87e4d6702f655668d4f2f8acff607fd9ac53f38a5ffe7bdd7377a5acea1e5f3e6ffecba4d41b0e824d012cb8f79155f710c99713ea0704ccf3678b957"
+
+[update]
+[update.modrinth]
+mod-id = "dJhpNOys"
+version = "fLkY4lsy"
