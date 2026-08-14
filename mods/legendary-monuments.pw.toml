@@ -1,13 +1,13 @@
 name = "Cobblemon: Legendary Monuments"
-filename = "legendarymonuments-neoforge-1.21.1-8.0.3.jar"
+filename = "legendarymonuments-neoforge-1.21.1-8.1-Love_for_All.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/m6RyHSbV/versions/l6PiCdpy/legendarymonuments-neoforge-1.21.1-8.0.3.jar"
+url = "https://cdn.modrinth.com/data/m6RyHSbV/versions/UNW6ItXN/legendarymonuments-neoforge-1.21.1-8.1-Love_for_All.jar"
 hash-format = "sha512"
-hash = "67ad129410494d679c80da882db023e9ac55e34ae0f4a9a888c5fc9d2febbe86ba92820f3b6deeea308e5ddec7edef8b00315fbe089e2d801a071af01b2f9549"
+hash = "1e0ef76098549a6de83679acb34193b8ca9da8349e618624f968fcd1f2cf9ba6cd508d88f5264b74675037c235d302e7ac2d065851cbb06a499ac526e3424a41"
 
 [update]
 [update.modrinth]
 mod-id = "m6RyHSbV"
-version = "l6PiCdpy"
+version = "UNW6ItXN"

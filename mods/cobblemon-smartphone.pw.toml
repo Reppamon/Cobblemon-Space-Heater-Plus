@@ -1,13 +1,13 @@
 name = "Cobblemon Smartphone"
-filename = "cobblemon_smartphone-neoforge-1.1.2.jar"
+filename = "cobblemon_smartphone-neoforge-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n2f1HbK8/versions/jzztROSF/cobblemon_smartphone-neoforge-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/n2f1HbK8/versions/TXLuE5FW/cobblemon_smartphone-neoforge-1.1.3.jar"
 hash-format = "sha512"
-hash = "d07ee6ad4904308a1d1ebeb29d58dea9d36795579bc0eb87200976cb12f57b34d6f08a8283d3e482f409cf63cbf64d6cdc55e7297e8638740281b55b510242de"
+hash = "33229f28d749aeccc7046487acf518030959c4c69fc0870fc6e2c83b972cbdbc78c2426243f9edc394b7f874705ecc11a1d3bf5dc3ca61f87893aa7ed55220ea"
 
 [update]
 [update.modrinth]
 mod-id = "n2f1HbK8"
-version = "jzztROSF"
+version = "TXLuE5FW"

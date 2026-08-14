@@ -3,11 +3,11 @@ filename = "CobbleDigimon.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ipGRoxkR/versions/NE3x4wqX/CobbleDigimon.jar"
+url = "https://cdn.modrinth.com/data/ipGRoxkR/versions/QRSGDIJC/CobbleDigimon.jar"
 hash-format = "sha512"
-hash = "4ba8e8c77fcf7823d9d8eae86ee88add1939cdd718b21373ea8c02dcaac9561297b2db8f0bf79de14ee15a935f3d8d51f2ca345787f5cf23a20876945d57d695"
+hash = "fce757fe7c429077f71a4498f816d637158e17a8d4858c9458ee303c69fc928150993534bd974cbfffc76fac4dbf0e117f45929ddc1dda186b17ecf683618c8f"
 
 [update]
 [update.modrinth]
 mod-id = "ipGRoxkR"
-version = "NE3x4wqX"
+version = "QRSGDIJC"

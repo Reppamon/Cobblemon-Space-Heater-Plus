@@ -1,13 +1,13 @@
 name = "Cobblemon: Perfect Partners"
-filename = "cobblemon-perfect-partners-neoforge-2.0.0.jar"
+filename = "cobblemon-perfect-partners-neoforge-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Mm4ksRsw/versions/h7WgZstl/cobblemon-perfect-partners-neoforge-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/Mm4ksRsw/versions/5rXHQLu7/cobblemon-perfect-partners-neoforge-1.2.1.jar"
 hash-format = "sha512"
-hash = "45246f227afc2a99caa8add0c4d826d31818aabe1b8cd90eed792a9095ac50703d725713c7dbf16a3971b0799a9572d6fdd8c6a6e2a7a49c73250ad5594a1b4e"
+hash = "b3a0bbb4ea373047915ec3ccc3acd9768b117fe3e18b4c5da8c1439e1fb7bd0c6c830d9a8ad0d3491ff8bf570faded7f9f495e30eb4bf8378096507368851adb"
 
 [update]
 [update.modrinth]
 mod-id = "Mm4ksRsw"
-version = "h7WgZstl"
+version = "5rXHQLu7"

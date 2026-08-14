@@ -1,13 +1,13 @@
 name = "GrowableOres"
-filename = "GrowableOres-3.7.2-1.21.1-NeoForge.jar"
+filename = "GrowableOres-3.7.3-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XGvP5TBn/versions/heWcRCFR/GrowableOres-3.7.2-1.21.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/XGvP5TBn/versions/1ck6iCRf/GrowableOres-3.7.3-1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "858ef634cc92bb3583ef374ed21cd68eeb023c828d51ee206bdf9a262d4f93f84f904515e168b240dd90ee04d6581ba4bbd8d468fd8022a660c60e98a54fa604"
+hash = "c3cde1c6ef64dc2dcc3ecb7ac259438f3190f629931b8fcd6a325bd75a89fa159ca2eae20ba762921468925cd9e0c972c2ba593e129a2185bb0632c48f127e00"
 
 [update]
 [update.modrinth]
 mod-id = "XGvP5TBn"
-version = "heWcRCFR"
+version = "1ck6iCRf"
